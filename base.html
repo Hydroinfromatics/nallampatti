@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - Nallampatti Website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='contact.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='map.css') }}">
+</head>
+<body>
+    <div class="background-animation"></div>
+    <header>
+        <div class="container">
+            <a href="/" class="logo">
+                <span class="logo-text">Nallampatti</span>
+                <div class="logo-icon"></div>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="/"><i class="fas fa-home"></i> <span><h3>Home</h3></span></a></li>
+                    <li><a href="/map"><i class="fas fa-map-marked-alt"></i> <span><h3>Map</h3></span></a></li>
+                    <li><a href="/dashboard"><i class="fas fa-chart-line"></i> <span><h3>Dashboard</h3></span></a></li>
+                    <li><a href="/contact"><i class="fas fa-envelope"></i> <span><h3>Contact</h3></span></a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <h1 class="page-title">{{ title }}</h1>
+            <div class="content">
+                {{ content | safe }}
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>About Us</h3>
+                    <p>Innovative solutions for the modern world.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>Email: info@iccwindia.org</p>
+                    <p>Phone: (123) 456-7890</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Follow Us</h3>
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/ICCWIndia/" target="_blank"><i class="fab fa-facebook"></i></a>
+                        <a href="https://x.com/ICCWIndia" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/company/iccw/posts/?feedView=all" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://iccw.world" target="_blank"><i class="fas fa-globe"></i></a>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Nallampatti. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
