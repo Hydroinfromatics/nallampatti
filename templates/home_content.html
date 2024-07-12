@@ -1,36 +1,38 @@
 <div class="hero">
-    <h1>{{ welcome_message }}</h1>
-    <p>{{ intro_text }}</p>
+    <h2><b>{{ welcome_message }}</b></h2>
+    <h4>{{ intro_text }}</h4>
 </div>
 
 <section class="features">
-    <h2>Discover Nallampatti</h2>
+   <center> <h2>Discover Nallampatti</h2></center> 
     <div class="feature-grid">
         {% for feature in features %}
         <div class="feature-card">
             <img src="{{ url_for('static', filename='images/' + feature.image) }}" alt="{{ feature.title }}">
             <h3>{{ feature.title }}</h3>
             <p>{{ feature.description }}</p>
+            <center><a href="/gallery" class="btn">view</a></center>
         </div>
         {% endfor %}
     </div>
 </section>
 
 <section class="events">
-    <h2>Upcoming Events</h2>
+    <center><h2>Data Collection</h2></center>
     <div class="event-list">
         {% for event in events %}
         <div class="event-card">
             <h3>{{ event.name }}</h3>
             <p class="event-date">{{ event.date }}</p>
             <p>{{ event.description }}</p>
+            <a href="" class="btn">view</a>
         </div>
         {% endfor %}
     </div>
 </section>
 
 <section class="cta">
-    <h2>Plan Your Visit</h2>
-    <p>Experience the warmth and hospitality of Nallampatti. We can't wait to welcome you!</p>
+    <h2>Rural Development Field Visit</h2>
+    <p>Experience the warmth and hospitality of Nallampatti!</p>
     <a href="/contact" class="btn">Contact Us</a>
 </section>

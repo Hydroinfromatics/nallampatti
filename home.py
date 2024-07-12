@@ -7,37 +7,38 @@ def home():
     port = current_app.config['PORT']
     
     # Content for the home page
-    welcome_message = "Welcome to Nallampatti"
-    intro_text = "Discover the beauty and culture of our vibrant village in Tamil Nadu, India."
+    welcome_message = "Every Drop Counts, Every Voice Matters"
+
+    intro_text = "Nallampatti Water Wellness Initiative: Mapping Our Community's Aquatic Health"
     
     features = [
         {
             "title": "Rich Heritage",
             "description": "Explore our centuries-old temples and traditional architecture.",
-            "image": "heritage.jpg"
+            "image": "nal.jpg"
         },
         {
             "title": "Natural Beauty",
             "description": "Experience the lush greenery and scenic landscapes surrounding our village.",
-            "image": "nature.jpg"
+            "image": "nal2.jpg"
         },
         {
-            "title": "Local Cuisine",
-            "description": "Savor the flavors of authentic Tamil cuisine prepared with love by our community.",
-            "image": "cuisine.jpg"
+            "title": "Sensor Installation in Tropical Garden",
+            "description": "Natural backdrop showcasing the implementation of sensor technology, implying a blend of nature and modern monitoring systems",
+            "image": "nal4.jpeg"
         }
     ]
     
     events = [
         {
-            "name": "Annual Temple Festival",
-            "date": "August 15-17, 2024",
-            "description": "Join us for three days of spiritual celebration and cultural performances."
+            "name": "Household survey-1",
+            "date": "August, 2022",
+            "description": "Our website collects and displays household survey data, offering insights into our community's living conditions and demographics."
         },
         {
-            "name": "Farmers' Market",
-            "date": "Every Saturday",
-            "description": "Shop for fresh, locally-grown produce and handmade crafts."
+            "name": "Household survey-2",
+            "date": "October 2023",
+            "description": "Our platform gathers and showcases residential data, providing a window into local lifestyles and population trends."
         }
     ]
 
