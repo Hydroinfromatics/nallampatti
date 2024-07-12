@@ -31,14 +31,8 @@ def home():
     
     events = [
         {
-            "name": "Household survey-1",
-            "date": "August, 2022",
-            "description": "Our website collects and displays household survey data, offering insights into our community's living conditions and demographics."
-        },
-        {
-            "name": "Household survey-2",
-            "date": "October 2023",
-            "description": "Our platform gathers and showcases residential data, providing a window into local lifestyles and population trends."
+            "name": "Real-time Monitoring",
+            "description": "A real time water quality monitoring unit was deployed in the Nallampatti village with the initial funds from Aquamap IIT Madras. The Water quality monitoring unit has been installed near a well inside village. Major purpose of real-time monitoring is to keep a track of seasonal changes in water quality for the basic parameters pH, TDS and variations in the ground water level. The unit is future extendible to additional parameters (Nitrate, Hardness, Fluoride, Chloride, DO, Ammonium, Turbidity, etc.) for a detailed real time monitoring of ground water composition and temporal changes in the same."
         }
     ]
 
