@@ -1,0 +1,580 @@
+Sl No.,Latitude,Longitude,Ward,Street Name,Type_of_House,Presence_of_well_,Presence_of_overhead,Source_of_drinking,Processed_for_Drinking,Presence_of_farml,If_yes_chemical_f,Crops_grown_in_Na,Specify_the_veget,Fuel_used_for_cook,Vessel_largely_use,Use_of_insectmosq,Grey Water Discharge,Presence of Toilet,Presence_of_septi
+1,11.351527,77.53291,1,Kothukaraveethi Thotta paguthigal,Concrete,Both,Yes,Bore well,Personal RO,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Ground nut, Corn, Other crops",,Gobar gas,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+2,11.356367,77.535168,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Both,No,Bore well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Ground nut, Other crops",,"Gobar gas, LPG",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+3,11.356803,77.531317,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Vegetables,Brinjal,"Gobar gas, LPG",Pressure cooker,No,Directly to ground,Yes,Yes
+4,11.351306,77.532889,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Both,No,Bore well,Personal RO,Yes,No/ Not known,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+5,11.353855,77.531454,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Bore well,No,Bore well,Nil,Yes,Yes,"Rice, Vegetables",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+6,11.351507,77.537042,1,Kothukaraveethi Thotta paguthigal,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+7,11.353696,77.531101,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+8,11.352909,77.529159,1,Kothukaraveethi Thotta paguthigal,Concrete,Both,Yes,Bore well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+9,11.353606,77.530993,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Both,No,Bore well,Boiling,Yes,No/ Not known,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+10,11.343465,77.544208,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Both,No,Open well,Boiling,No,,"Rice, Vegetables",,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+11,11.343465,77.544208,1,Kothukaraveethi Thotta paguthigal,Concrete,Both,No,Open well,Personal RO,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Ground nut, Other crops, Corn",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+12,11.358693,77.534764,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Both,Yes,Open well,Boiling,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+13,11.349904,77.536379,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Nil,Yes,Open well,Nil,Yes,No/ Not known,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+14,11.356566,77.534025,1,Kothukaraveethi Thotta paguthigal,Concrete,Both,Yes,Open well,Nil,Yes,No/ Not known,Vegetables,Brinjal,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+15,11.349707,77.536511,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Both,No,Open well,Boiling,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+16,11.350743,77.53676,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Both,Yes,Open well,Nil,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+17,11.358306,77.525217,1,Kothukaraveethi Thotta paguthigal,Concrete,Both,No,Bore well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Ground nut, Other crops, Nil",,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+18,11.351713,77.539727,1,Kothukaraveethi Thotta paguthigal,Concrete,Nil,Yes,Open well,Nil,Yes,Yes,Nil,,"LPG, Firewood",SS pot,No,Directly to ground,Yes,Yes
+19,11.350403,77.531398,1,Pillaiyarkovil Veethi Thotta paguthigal,Concrete,Both,Yes,Open well,Nil,Yes,No/ Not known,Nil,Nil,"LPG, Firewood",Pressure cooker,No,Directly to ground,Yes,Yes
+20,11.34697,77.536684,2,Kothukara Veethi Thottapaguthigal,Concrete,Open well,Yes,Bore well,Nil,Yes,Yes,"Banana, Corn, Ground nut",,LPG,Aluminium pot,No,Farming/ Gardening,Yes,Yes
+21,11.359651,77.541872,2,Kothukara Veethi Thottapaguthigal,Concrete,Bore well,Yes,Bore well,Nil,Yes,Yes,"Rice, Other crops",Sugar cane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+22,11.360083,77.537911,2,Kothukara Veethi Thottapaguthigal,Concrete,Nil,Yes,Bore well,Nil,No,,Nil,,LPG,Earthern pot,No,Farming/ Gardening,Yes,Yes
+23,11.343465,77.544208,2,Kothukara Veethi Thottapaguthigal,Concrete,Bore well,Yes,Bore well,Nil,Yes,Yes,"Rice, Coconut",Rice,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+24,11.360593,77.537397,2,Kothukara Veethi Thottapaguthigal,Concrete,Bore well,Yes,Bore well,Nil,Yes,Yes,Rice,,LPG,SS pot,No,Directly to ground,Yes,Yes
+25,11.344038,77.541342,2,Kothukara Veethi Thottapaguthigal,Concrete,Nil,No,Open well,Nil,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+26,11.354427,77.540092,2,Kothukara Veethi Thottapaguthigal,Concrete,Nil,Yes,Open well,Nil,Yes,No/ Not known,"Rice, Vegetables",Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+27,11.355412,77.539709,2,Kothukara Veethi Thottapaguthigal,Concrete,Nil,Yes,Open well,Nil,Yes,No/ Not known,Nil,Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+28,11.352932,77.543142,2,Kothukara Veethi Thottapaguthigal,Concrete,Open well,Yes,Open well,Nil,Yes,Yes,"Banana, Ground nut, Other crops",Rice,LPG,Aluminium pot,No,Farming/ Gardening,Yes,Yes
+29,11.344038,77.541342,2,Kothukara Veethi Thottapaguthigal,Concrete,Open well,No,Open well,Nil,Yes,Yes,"Banana, Rice, Vegetables","Bitter guard ,lady's finger",LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+30,11.352197,77.540185,2,Kothukara Veethi Thottapaguthigal,Concrete,Open well,Yes,Open well,Nil,Yes,Yes,"Rice, Vegetables, Banana, Other crops, Corn",All vegetables,LPG,Pressure cooker,Yes,Farming/ Gardening,Yes,Yes
+31,11.348356,77.561046,2,Kothukara Veethi Thottapaguthigal,Concrete,Bore well,No,Panchyat water - Piped,Personal RO,Yes,Yes,"Coconut, Banana",,"LPG, Firewood",Pressure cooker,No,Directly to ground,Yes,Yes
+32,,,3,Ricemill Puthur Thottapaguthigal,Concrete,Bore well,No,Bore well,Personal RO,No,,"Coconut, Vegetables, Banana, Rice",,"Firewood, LPG",Pressure cooker,No,Directly to ground,Yes,Yes
+33,11.346476,77.549582,3,JJ Nagar,Concrete,Bore well,No,Panchyat water - Piped,Personal RO,Yes,No/ Not known,"Rice, Banana, Coconut",,"Firewood, LPG",Aluminium pot,No,Farming/ Gardening,Yes,Yes
+34,11.346095,77.540625,3,Ricemill Puthur Thottapaguthigal,Concrete,Bore well,Yes,Panchyat water - Piped,Nil,Yes,Yes,Other crops,Suger cane,Gobar gas,SS pot,No,Farming/ Gardening,Yes,Yes
+35,,,3,JJ Nagar,Concrete,Bore well,Yes,Bore well,Boiling,Yes,Yes,Nil,Market,LPG,SS pot,No,Directly to ground,Yes,Yes
+36,,,3,Ricemill Puthur Thottapaguthigal,Concrete,Bore well,Yes,Bore well,Nil,Yes,Yes,Nil,Market,LPG,SS pot,No,Directly to ground,Yes,Yes
+37,11.342807,77.544748,3,Ricemill Puthur Thottapaguthigal,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Banana,Banana,LPG,SS pot,Yes,Farming/ Gardening,Yes,Yes
+38,,,3,JJ Nagar,Concrete,Open well,Yes,Bore well,Personal RO,Yes,Yes,Nil,Market and garden,LPG,SS pot,No,Directly to ground,Yes,Yes
+39,11.345026,77.550038,3,Ricemill Puthur Thottapaguthigal,Concrete,Both,Yes,Bore well,Nil,Yes,No/ Not known,"Rice, Other crops",Rice,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+40,,,3,Ricemill Puthur Thottapaguthigal,Concrete,Open well,Yes,Open well,Boiling,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+41,11.343103,77.546857,3,Ricemill Puthur Thottapaguthigal,Concrete,Open well,Yes,Open well,Personal RO,Yes,No/ Not known,Coconut,Covonut,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+42,,,3,Ricemill Puthur Thottapaguthigal,Concrete,Open well,Yes,Open well,Boiling,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+43,11.343636,77.545883,3,Ricemill Puthur Thottapaguthigal,Concrete,Open well,Yes,Open well,Nil,Yes,No/ Not known,"Coconut, Other crops, Ground nut, Corn",Corn,LPG,SS pot,Yes,Directly to ground,Yes,Yes
+44,11.339613,77.548861,3,Ricemill Puthur Thottapaguthigal,Concrete,Open well,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,Vegetables,,LPG,Pressure cooker,Yes,Farming/ Gardening,Yes,Yes
+45,11.346095,77.540625,3,JJ Nagar,Concrete,Open well,Yes,Panchayat water - Overhead tank,Boiling,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+46,11.346095,77.540625,3,JJ Nagar,Concrete,Open well,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,"Coconut, Corn",Nil,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+47,11.342525,77.544407,3,Ricemill Puthur Thottapaguthigal,Concrete,Bore well,Yes,Panchayat water - Overhead tank,Boiling,Yes,Yes,Banana,Banana,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+48,,,3,Ricemill Puthur Thottapaguthigal,Concrete,Open well,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+49,11.345177,77.551732,3,JJ Nagar,Concrete,Nil,No,Panchyat water - Piped,Personal RO,Yes,Yes,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+50,11.346597,77.549624,3,JJ Nagar,Concrete,Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,"Banana, Coconut, Vegetables",Tomato,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+51,11.346848,77.553157,3,JJ Nagar,Concrete,Bore well,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,Coconut,Coconut,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+52,11.346095,77.540625,3,JJ Nagar,Concrete,Open well,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,"Rice, Ground nut, Corn, Banana, Coconut",Nil,"LPG, Firewood",Pressure cooker,No,Directly to ground,Yes,Yes
+53,,,3,Ricemill Puthur Thottapaguthigal,Concrete,Nil,No,Panchyat water - Piped,Personal RO,Yes,No/ Not known,Nil,,"LPG, Firewood",Aluminium pot,No,Directly to ground,Yes,Yes
+54,11.341694,77.538352,4,Pattaththarasiamman Kovil Street,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables",,"Firewood, LPG",SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+55,11.341419,77.537865,4,Pattaththarasiamman Kovil Street,Concrete,Open well,Yes,Open well,Nil,No,,Nil,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+56,11.359916,77.537582,4,Pattaththarasiamman Kovil Street,Concrete,Open well,No,Open well,Nil,No,,Nil,,LPG,SS pot,Yes,Directly to ground,Yes,Yes
+57,,,4,Pattaththarasiamman Kovil Street,Concrete,Nil,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana",Lady fingers,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+58,,,4,Pattaththarasiamman Kovil Street,Concrete,Nil,No,Panchayat water - Overhead tank,Nil,Yes,No/ Not known,"Rice, Vegetables, Banana, Coconut",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+59,11.341338,77.537967,4,Pattaththarasiamman Kovil Street,Concrete,Nil,No,Panchayat water - Syntex tank,Personal RO,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Ladies finger,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+60,11.341443,77.538388,4,Pattaththarasiamman Kovil Street,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Rice",No,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+61,,,4,Pattaththarasiamman Kovil Street,Concrete,Nil,No,Panchyat water - Piped,Personal RO,Yes,Yes,"Rice, Vegetables, Coconut, Banana","Sugarcane,banana",LPG,Aluminium pot,No,Farming/ Gardening,No,No
+62,11.342211,77.538309,4,Pattaththarasiamman Kovil Street,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,SS pot,Yes,Directly to soakpit/ sewage canal,No,No
+63,11.341393,77.538138,4,Pattaththarasiamman Kovil Street,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+64,11.34206,77.53786,4,Pattaththarasiamman Kovil Street,Concrete,Open well,No,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana","Sugarcane,banana",LPG,Aluminium pot,Yes,Directly to ground,No,No
+65,11.341446,77.538372,4,Pattaththarasiamman Kovil Street,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+66,11.341463,77.53805,4,Pattaththarasiamman Kovil Street,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,Nil,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+67,11.341989,77.53789,4,Pattaththarasiamman Kovil Street,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,"Rice, Vegetables, Banana",Sugarcane,LPG,Aluminium pot,No,Directly to ground,No,No
+68,,,5,Pattatharasiamman kovil street,Concrete,Bore well,No,Bore well,Nil,Yes,No/ Not known,Vegetables,,"Firewood, LPG",Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+69,11.341453,77.537652,5,Pattatharasiamman kovil street,Concrete,Nil,No,Open well,Boiling,No,,Vegetables,Spinach,"Firewood, LPG",Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+70,11.341146,77.537524,5,Pattatharasiamman kovil street,Concrete,Open well,Yes,Open well,Personal RO,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+71,11.341441,77.537563,5,Pattatharasiamman kovil street,Concrete,Nil,Yes,Open well,Boiling,Yes,No/ Not known,Nil,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+72,11.340822,77.536868,5,Gandhi Veethi,Concrete,Open well,Yes,Open well,Boiling,Yes,Yes,"Coconut, Banana",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+73,11.340863,77.535674,5,Gandhi Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut","Sugarcane,lady's finger",LPG,SS pot,Yes,Directly to ground,Yes,No
+74,11.341244,77.536883,5,Gandhi Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Boiling,Yes,Yes,Coconut,CURRY LEAVES,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+75,,,5,Pattatharasiamman kovil street,Concrete,Open well,Yes,Panchyat water - Piped,Boiling,Yes,Yes,"Banana, Rice",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+76,,,5,Gandhi Veethi,Concrete,Open well,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Coconut, Banana, Vegetables",,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+77,11.341299,77.536828,5,Gandhi Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+78,11.341342,77.536768,5,Gandhi Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+79,11.34154,77.536873,5,Gandhi Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+80,11.341467,77.537078,5,Gandhi Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+81,,,6,Pillaiyarkovil Veethi,Concrete,Both,Yes,Bore well,Nil,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+82,11.343394,77.536996,6,Pillaiyarkovil Veethi,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,"Rice, Banana, Corn, Other crops",Corn,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+83,11.340535,77.534655,6,Pillaiyarkovil Veethi,Concrete,Bore well,Yes,Bore well,Nil,No,,Nil,No,LPG,SS pot,No,Directly to ground,Yes,Yes
+84,,,6,Pillaiyarkovil Veethi,Concrete,Open well,No,Open well,Nil,Yes,Yes,Nil,Nill,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+85,11.342173,77.537148,6,Pillaiyarkovil Veethi,Concrete,Bore well,Yes,Panchayat water - Overhead tank,Boiling,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+86,11.342533,77.537089,6,Pillaiyarkovil Veethi,Concrete,Both,Yes,Panchayat water - Overhead tank,Personal RO,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops","Ladies finger, Carrot , beans , etc",LPG,SS pot,Yes,Directly to ground,Yes,Yes
+87,,,6,Pillaiyarkovil Veethi,Concrete,Open well,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+88,11.344042,77.537025,6,Pillaiyarkovil Veethi,Concrete,Both,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+89,11.342897,77.536976,6,Pillaiyarkovil Veethi,Concrete,Both,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+90,11.343804,77.537618,6,Pillaiyarkovil Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Personal RO,No,,Nil,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+91,11.342435,77.537169,6,Pillaiyarkovil Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Boiling,No,,Coconut,Nil,LPG,Pressure cooker,Yes,Directly to ground,Yes,Yes
+92,11.341369,77.536857,6,Pillaiyarkovil Veethi,Concrete,Both,Yes,Panchyat water - Piped,Personal RO,Yes,No/ Not known,Banana,Banana,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+93,11.342601,77.536866,6,Pillaiyarkovil Veethi,Concrete,Both,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,Other crops,Nil,LPG,SS pot,Yes,Directly to ground,Yes,Yes
+94,11.343465,77.544208,6,Pillaiyarkovil Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Banana, Corn, Other crops",Sugar cane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+95,11.343173,77.537673,6,Pillaiyarkovil Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Nil,No,,Nil,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+96,11.343763,77.537499,6,Pillaiyarkovil Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Personal RO,No,,Nil,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+97,11.342917,77.536097,7,Nallampatti Mariamman Kovil Veethi,Concrete,Open well,No,Bore well,Boiling,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",No,"Firewood, LPG",Pressure cooker,No,Directly to ground,Yes,Yes
+98,11.342676,77.536478,7,Nallampatti Mariamman Kovil Veethi,Concrete,Both,Yes,Bore well,Personal RO,No,,"Rice, Vegetables",Nil,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+99,11.34306,77.536213,7,Nallampatti Mariamman Kovil Veethi,Concrete,Both,Yes,Bore well,Nil,No,,"Rice, Vegetables","Brinjal, ladies finger,bitter gourd",LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+100,11.343024,77.536309,7,Nallampatti Mariamman Kovil Veethi,Concrete,Bore well,No,Bore well,Nil,No,,"Rice, Other crops",Sugar cane,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+101,11.343095,77.536966,7,Nallampatti Koththukkarar Veethi,Concrete,Nil,Yes,Panchayat water - Syntex tank,Nil,Yes,No/ Not known,Rice,No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+102,11.343402,77.536459,7,Nallampatti Mariamman Kovil Veethi,Concrete,Nil,Yes,Panchayat water - Syntex tank,Boiling,No,,Nil,Rice,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+103,11.34269,77.536323,7,Nallampatti Mariamman Kovil Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Boiling,Yes,Yes,Rice,Rice,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+104,11.344914,77.5374,7,Nallampatti Koththukkarar Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,Nil,,LPG,SS pot,No,Directly to ground,Yes,No
+105,11.341967,77.5417,7,Nallampatti Mariamman Kovil Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,Vegetables,"Bottle gourd,brinjal",LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+106,11.343708,77.536749,7,Nallampatti Mariamman Kovil Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+107,11.344345,77.536242,7,Nallampatti Mariamman Kovil Veethi,Concrete,Open well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Vegetables,Nil,LPG,Pressure cooker,No,Farming/ Gardening,No,No
+108,11.34406,77.536919,7,Nallampatti Mariamman Kovil Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Boiling,No,,Nil,Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+109,,,7,Nallampatti Mariamman Kovil Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Nil,Yes,Yes,"Vegetables, Rice, Coconut, Banana, Corn, Ground nut, Other crops",No,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+110,11.344104,77.518408,8,West Puthuthottam,Concrete,Open well,Yes,Bore well,Nil,Yes,Yes,Banana,Banana,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+111,11.341478,77.530234,8,Durgaiamman Kovil Veethi,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+112,11.341451,77.533677,8,Durgaiamman Kovil Veethi,Concrete,Bore well,Yes,Bore well,Personal RO,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+113,11.343505,77.52895,8,West Puthuthottam,Concrete,Bore well,No,Bore well,Nil,Yes,Yes,"Rice, Banana, Coconut",Sugar cane,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+114,11.341632,77.533559,8,Durgaiamman Kovil Veethi,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Vegetables,Bottle guard,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+115,11.343162,77.528899,8,Old Thasamputhur,Concrete,Bore well,Yes,Bore well,Nil,Yes,Yes,"Rice, Other crops",Sugar cane,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,No
+116,11.34122,77.536033,8,Durgaiamman Kovil Veethi,Concrete,Both,Yes,Canned water,Personal RO,No,,"Vegetables, Ground nut, Coconut, Rice, Other crops",Bottle gurad,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+117,11.342751,77.529144,8,Old Thasamputhur,Concrete,Both,Yes,Open well,Nil,Yes,Yes,"Rice, Vegetables, Banana, Other crops","Turmeric,sugar cane,tomato",LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,No
+118,11.34172,77.53475,8,Durgaiamman Kovil Veethi,Concrete,Open well,No,Open well,Nil,Yes,No/ Not known,"Ground nut, Vegetables",Brinjal onion,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+119,11.341161,77.53095,8,Durgaiamman Kovil Veethi,Concrete,Bore well,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Banana, Corn, Ground nut",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+120,11.342323,77.535928,8,Durgaiamman Kovil Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+121,11.340789,77.533383,8,Pappangkadu Veeramathi Veethi,Concrete,Open well,Yes,Panchyat water - Piped,Boiling,No,,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+122,11.341272,77.533695,8,Pappangkadu Veeramathi Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana, Ground nut, Corn",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+123,11.340366,77.532475,8,Pappangkadu Veeramathi Veethi,Concrete,Open well,Yes,Open well,Boiling,No,,"Rice, Vegetables",,"LPG, Firewood",Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+124,11.342351,77.535794,8,Durgaiamman Kovil Veethi,Concrete,Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Banana, Corn, Ground nut, Other crops","Bitter gourd,Flat beans","LPG, Firewood",Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+125,11.342252,77.528983,8,Old Thasamputhur,Concrete,Open well,No,Bore well,Nil,Yes,Yes,"Rice, Banana, Coconut",,"LPG, Gobar gas",Pressure cooker,No,Farming/ Gardening,Yes,Yes
+126,11.33802,77.520656,9,Masammavur Pomman Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Rice,Shop,"Firewood, LPG",SS pot,No,Directly to ground,No,No
+127,11.344116,77.522504,9,Aathikkattur Kamarajar Veethi,Concrete,Both,Yes,Bore well,Nil,Yes,Yes,Other crops,Sugarcane,LPG,Pressure cooker,Yes,Farming/ Gardening,Yes,Yes
+128,11.339571,77.526292,9,Masammavur Pomman Veethi,Concrete,Open well,Yes,Bore well,Nil,Yes,Yes,Coconut,Coconut,LPG,Pressure cooker,Yes,Farming/ Gardening,Yes,Yes
+129,11.343802,77.519483,9,Masammavur Pomman Veethi,Concrete,Both,Yes,Bore well,Boiling,Yes,No/ Not known,"Banana, Coconut, Corn, Other crops",,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+130,,,9,Thasamputhur Kotthukarar Veethi,Concrete,Both,Yes,Bore well,Nil,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+131,,,9,Thasamputhur Kotthukarar Veethi,Concrete,Open well,No,Open well,Nil,Yes,No/ Not known,"Banana, Ground nut",Sugar cane,LPG,Aluminium pot,No,Farming/ Gardening,Yes,Yes
+132,11.339184,77.525693,9,Thasaiyar Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Boiling,Yes,Yes,"Coconut, Banana, Other crops",Stick yam,LPG,SS pot,No,Directly to ground,Yes,Yes
+133,11.339373,77.526139,9,Thasamputhur Kotthukarar Veethi,Concrete,Both,Yes,Panchyat water - Piped,Nil,Yes,Yes,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+134,11.339594,77.520073,9,Masammavur Pomman Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Vegetables,,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+135,11.338214,77.525841,9,Thasaiyar Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,Yes,Coconut,Nil,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+136,11.33998,77.527725,9,Masammavur Pomman Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Nil,No,LPG,SS pot,No,Farming/ Gardening,No,No
+137,11.339466,77.526506,9,Thasaiyar Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Nil,No,,Nil,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+138,11.340414,77.525965,9,Thasamputhur Kotthukarar Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Ground nut,Ground nut,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+139,11.337118,77.519838,9,Masammavur Pomman Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Corn, Ground nut","Tomato ,brinjal",LPG,Pressure cooker,No,Directly to ground,Yes,No
+140,11.339648,77.526191,9,Thasamputhur Kotthukarar Veethi,Concrete,Bore well,Yes,Panchyat water - Piped,Nil,Yes,Yes,Banana,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+141,11.339455,77.519953,9,Masammavur Pomman Veethi,Concrete,Open well,No,Panchyat water - Piped,Personal RO,Yes,No/ Not known,"Corn, Ground nut",,LPG,SS pot,No,Directly to ground,Yes,Yes
+142,11.339919,77.526292,9,Thasaiyar Veethi,Concrete,Both,Yes,Panchyat water - Piped,Boiling,Yes,Yes,Other crops,Suger cane,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+143,11.33998,77.527725,9,Aathikkattur Kamarajar Veethi,Concrete,Both,Yes,Bore well,Nil,Yes,Yes,Other crops,,"LPG, Firewood",SS pot,No,Farming/ Gardening,Yes,No
+144,11.348143,77.523425,9,Aathikkattur Kamarajar Veethi,Concrete,Open well,Yes,Open well,Nil,Yes,Yes,"Vegetables, Ground nut, Other crops, Corn",,"LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+145,11.342958,77.524247,9,Aathikkattur Kamarajar Veethi,Concrete,Open well,No,Open well,Nil,Yes,Yes,"Vegetables, Nil",,"LPG, Firewood",Pressure cooker,No,Directly to ground,Yes,Yes
+146,11.338346,77.520848,9,Masammavur Pomman Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Vegetables, Ground nut, Other crops",,"LPG, Firewood",Aluminium pot,No,Directly to ground,Yes,No
+147,11.337893,77.520419,9,Masammavur Pomman Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Vegetables, Ground nut, Other crops","Cotton, ladies finger, brinjal","LPG, Firewood",Aluminium pot,No,Directly to ground,No,No
+148,11.337322,77.5371,10,Naduvalasu Kothukarar Veethi,Concrete,Open well,Yes,Open well,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana",,"Gobar gas, LPG",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+149,11.340866,77.535434,10,Annamaar Veethi Main Road,Concrete,Bore well,Yes,Bore well,Personal RO,No,,Nil,,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+150,,,10,Naduvalasu Kothukarar Veethi,Concrete,Open well,Yes,Bore well,Personal RO,Yes,Yes,"Vegetables, Banana",Nil,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+151,11.341026,77.536488,10,Annamaar Veethi Main Road,Concrete,Bore well,Yes,Bore well,Nil,No,,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+152,11.341421,77.537042,10,Annamaar Veethi Main Road,Concrete,Open well,Yes,Bore well,Personal RO,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Brinjal,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+153,11.34026,77.534601,10,Annamaar Veethi Main Road,Concrete,Bore well,Yes,Bore well,Personal RO,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Carrot,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+154,11.341615,77.538387,10,Naduvalasu Kothukarar Veethi,Concrete,Nil,Yes,Open well,Nil,Yes,Yes,"Banana, Other crops",Sugarcane,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+155,11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Concrete,Nil,Yes,Panchayat water - Syntex tank,Boiling,No,,Nil,,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+156,11.340781,77.536997,10,Annamaar Veethi Main Road,Concrete,Nil,No,Panchayat water - Syntex tank,Nil,No,,Vegetables,All vegetables,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+157,11.331958,77.543491,10,Naduvalasu Kothukarar Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,Yes,"Coconut, Other crops","Sugarcane, paddy",LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+158,11.341421,77.537042,10,Annamaar Veethi Main Road,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,Electric cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+159,11.335042,77.542417,10,Naduvalasu Kothukarar Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,Yes,"Coconut, Vegetables",Banana,LPG,SS pot,No,Directly to ground,Yes,Yes
+160,11.346408,77.531667,10,Annamaar Veethi Main Road,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+161,11.336638,77.537415,10,Naduvalasu Kothukarar Veethi,Concrete,Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,"Rice, Ground nut",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+162,11.33715,77.537749,10,Naduvalasu Kothukarar Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Boiling,Yes,Yes,"Rice, Vegetables, Banana, Coconut",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+163,11.340456,77.536895,10,Annamaar Veethi Main Road,Concrete,Nil,Yes,Panchayat water - Syntex tank,Personal RO,Yes,No/ Not known,Vegetables,All vegetables,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+164,11.336927,77.53757,10,Naduvalasu Kothukarar Veethi,Concrete,Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,Nil,,"LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+165,11.332986,77.543133,10,Naduvalasu Kothukarar Veethi,Concrete,Nil,No,Panchyat water - Piped,Personal RO,No,,Nil,,"LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+166,11.340234,77.5366,10,Annamaar Veethi Main Road,Concrete,Open well,Yes,Open well,Nil,Yes,No/ Not known,"Other crops, Rice",,"LPG, Gobar gas",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+167,11.339835,77.540625,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Nil,,"Firewood, LPG",Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+168,,,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+169,11.340353,77.54499,11,Ricemill Puthur Colony,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,SS pot,No,Directly to ground,Yes,Yes
+170,11.34048,77.543684,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Boiling,No,,Nil,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+171,11.342059,77.54385,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Personal RO,No,,Nil,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+172,11.340497,77.544661,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+173,11.340652,77.543764,11,Ricemill Puthur Colony,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,SS pot,No,Directly to ground,Yes,Yes
+174,11.339835,77.540625,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Boiling,No,,Nil,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+175,11.340717,77.544895,11,Ricemill Puthur Colony,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Ground nut",,LPG,Pressure cooker,No,Directly to ground,Yes,No
+176,11.340663,77.544686,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+177,11.342609,77.543985,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+178,11.340054,77.544748,11,Ricemill Puthur Colony,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,SS pot,No,Directly to ground,Yes,Yes
+179,11.34011,77.544346,11,Ricemill Puthur Colony,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+180,11.342422,77.544208,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Personal RO,No,,Nil,,"LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+181,11.342422,77.544208,11,Ricemill Puthur Colony,Concrete,Nil,No,Panchyat water - Piped,Personal RO,No,,Nil,,"LPG, Firewood",Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+182,11.337366,77.543194,12,Oonjakadu,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Nil,,Gobar gas,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+183,11.339835,77.540625,12,Naduvalasu Cashier Veethi,Concrete,Open well,Yes,Panchayat water - Overhead tank,Nil,Yes,No/ Not known,Nil,Sugar cane,"Gobar gas, LPG",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+184,11.336512,77.553187,12,Manakkattu Puthur Pillaiyarkovil veethi,Concrete,Bore well,No,Bore well,Boiling,Yes,No/ Not known,"Vegetables, Other crops",Groundnut,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+185,11.335253,77.55036,12,Manakkattu Puthur Pillaiyarkovil veethi,Concrete,Bore well,Yes,Bore well,Nil,Yes,Yes,Other crops,"Groundnut, sweet potato",LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+186,,,12,Naduvalasu Cashier Veethi,Concrete,Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Nil,Both market and garden,LPG,SS pot,No,Directly to ground,Yes,Yes
+187,11.337304,77.543155,12,Naduvalasu Cashier Veethi,Concrete,Bore well,Yes,Bore well,Personal RO,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+188,11.336381,77.537623,12,Naduvalasu Cashier Veethi,Concrete,Nil,Yes,Panchayat water - Overhead tank,Boiling,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Carrot,LPG,Pressure cooker,Yes,Farming/ Gardening,Yes,Yes
+189,11.335993,77.537225,12,Naduvalasu Cashier Veethi,Concrete,Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Banana, Rice",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+190,11.335696,77.537057,12,Naduvalasu Cashier Veethi,Concrete,Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Rice, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+191,11.335331,77.53762,12,Naduvalasu Cashier Veethi,Concrete,Open well,Yes,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+192,11.336116,77.537741,12,Naduvalasu Cashier Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+193,11.336076,77.537179,12,Naduvalasu LIC Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+194,11.336099,77.537835,12,Naduvalasu Cashier Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Rice,Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+195,11.335593,77.537432,12,Naduvalasu LIC Veethi,Concrete,Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,Rice,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+196,11.335593,77.537289,12,Naduvalasu Cashier Veethi,Concrete,Open well,No,Panchyat water - Piped,Personal RO,No,,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+197,11.335754,77.537769,12,Naduvalasu Nehru Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,SS pot,No,Directly to ground,Yes,Yes
+198,11.333694,77.53525,12,Naduvalasu Cashier Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+199,11.335693,77.537473,12,Naduvalasu Cashier Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Nil,Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+200,,,12,Naduvalasu Cashier Veethi,Concrete,Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+201,11.336156,77.537683,12,Naduvalasu Nehru Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Other crops",,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+202,11.336029,77.537326,12,Naduvalasu Cashier Veethi,Concrete,Nil,No,Panchyat water - Piped,Nil,No,,Nil,,"LPG, Firewood",Pressure cooker,No,Farming/ Gardening,Yes,Yes
+203,11.337306,77.543156,12,Naduvalasu Cashier Veethi,Concrete,Nil,No,Bore well,Nil,Yes,No/ Not known,Other crops,Coconut,"LPG, Gobar gas",Aluminium pot,No,Directly to ground,Yes,Yes
+204,11.356172,77.531663,1,Pillaiyarkovil Veethi Thotta paguthigal,Thatched (Hut),Open well,Yes,Open well,Nil,Yes,Yes,"Rice, Coconut, Other crops",Sugar cane,Gobar gas,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+205,11.346263,77.544566,1,Kothukaraveethi Thotta paguthigal,Thatched (Hut),Open well,No,Open well,Nil,Yes,Yes,"Banana, Rice, Other crops",Sugarcane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+206,11.343465,77.544208,1,Kothukaraveethi Thotta paguthigal,Thatched (Hut),Bore well,No,Open well,Nil,Yes,Yes,"Rice, Coconut, Other crops",Tumaric,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+207,,,2,Kothukara Veethi Thottapaguthigal,Thatched (Hut),Nil,No,Open well,Nil,No,,Nil,,Firewood,Aluminium pot,Yes,Directly to ground,No,No
+208,11.349982,77.539177,2,Kothukara Veethi Thottapaguthigal,Thatched (Hut),Nil,No,Open well,Nil,No,,Nil,,Gobar gas,Earthern pot,No,Directly to ground,No,No
+209,11.353605,77.529159,2,Kothukara Veethi Thottapaguthigal,Thatched (Hut),Bore well,No,Bore well,Nil,Yes,Yes,Banana,,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+210,11.35359,77.5288,2,Kothukara Veethi Thottapaguthigal,Thatched (Hut),Open well,No,Open well,Nil,No,,Nil,,LPG,SS pot,No,Directly to ground,Yes,Yes
+211,11.347415,77.554346,2,JJ Nagar Thottapaguthigal,Thatched (Hut),Bore well,No,Bore well,Nil,Yes,Yes,"Ground nut, Coconut, Rice, Banana, Vegetables","Lady's finger,","LPG, Firewood",Pressure cooker,No,Farming/ Gardening,Yes,Yes
+212,11.343843,77.544924,2,Kothukara Veethi Thottapaguthigal,Thatched (Hut),Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables, Coconut, Banana, Ground nut",,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+213,11.342435,77.543069,3,Ricemill Puthur Thottapaguthigal,Thatched (Hut),Open well,Yes,Panchayat water - Overhead tank,Nil,No,,Nil,Nil,LPG,Pressure cooker,Yes,Farming/ Gardening,No,No
+214,11.332306,77.543491,3,Ricemill Puthur Thottapaguthigal,Thatched (Hut),Open well,Yes,Panchyat water - Piped,Boiling,Yes,Yes,"Coconut, Banana",,LPG,Pressure cooker,No,Directly to ground,Yes,No
+215,11.34649,77.549406,3,JJ Nagar,Thatched (Hut),Both,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Banana, Ground nut, Other crops",Turmeric,LPG,Bronze pot,No,Farming/ Gardening,Yes,Yes
+216,,,3,Ricemill Puthur Thottapaguthigal,Thatched (Hut),Open well,No,Panchyat water - Piped,Personal RO,No,,Nil,,"LPG, Firewood",Pressure cooker,No,Directly to ground,Yes,Yes
+217,11.341422,77.53842,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,No,,Nil,No,Firewood,SS pot,No,Directly to soakpit/ sewage canal,No,No
+218,11.34159,77.538387,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,No,,"Rice, Vegetables","Sugar cane,turmeric",Firewood,SS pot,No,Directly to ground,Yes,No
+219,11.34155,77.538476,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Vegetables, Other crops","Sugarcane,banana","Firewood, LPG",Aluminium pot,Yes,Directly to ground,No,No
+220,11.342012,77.5383,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,No,,Nil,,"Kerosene, Firewood, LPG",Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+221,11.341914,77.537893,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana","Sugarcane,banana",LPG,Aluminium pot,Yes,Directly to ground,No,No
+222,11.342059,77.54385,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Open well,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+223,11.342143,77.538038,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana","Sugarcane,banana",LPG,Aluminium pot,No,Directly to ground,No,No
+224,11.34252,77.537877,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+225,11.342147,77.537758,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+226,11.342532,77.538097,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Other crops,Wheat,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+227,11.341411,77.537962,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana","Sugarcane,banana",LPG,Aluminium pot,Yes,Directly to ground,No,No
+228,11.341695,77.538131,4,Pattaththarasiamman Kovil Street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+229,11.341897,77.53655,5,Gandhi Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+230,11.351507,77.537042,5,Pattatharasiamman kovil street,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,Nil,,LPG,Pressure cooker,No,Directly to ground,No,No
+231,11.343465,77.544208,5,Gandhi Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,Nil,,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+232,11.34168,77.537613,5,Pattatharasiamman kovil street,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,Nil,,LPG,Pressure cooker,No,Directly to ground,No,No
+233,,,5,Pattatharasiamman kovil street,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,Nil,,LPG,Pressure cooker,No,Directly to ground,No,No
+234,11.343465,77.544208,5,Pattatharasiamman kovil street,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Nil,,LPG,Pressure cooker,No,Directly to ground,No,No
+235,11.343465,77.544208,5,Pattatharasiamman kovil street,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,Nil,,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+236,11.343465,77.544208,5,Gandhi Veethi,Thatched (Hut),Open well,Yes,Panchyat water - Piped,Boiling,Yes,Yes,"Rice, Banana, Coconut, Vegetables",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+237,11.342147,77.537758,5,Pattatharasiamman kovil street,Thatched (Hut),Nil,No,Bore well,Boiling,No,,"Vegetables, Coconut, Banana",,"LPG, Firewood",Earthern pot,Yes,Directly to soakpit/ sewage canal,Yes,No
+238,,,6,Pillaiyarkovil Veethi,Thatched (Hut),Open well,Yes,Bore well,Boiling,No,,Nil,Nil,Firewood,SS pot,No,Directly to ground,Yes,Yes
+239,,,6,Pillaiyarkovil Veethi,Thatched (Hut),Bore well,Yes,Bore well,Boiling,Yes,No/ Not known,Nil,Nil,Firewood,SS pot,Yes,Directly to ground,Yes,Yes
+240,11.34224,77.537117,6,Pillaiyarkovil Veethi,Thatched (Hut),Both,Yes,Bore well,Boiling,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+241,11.346476,77.549582,6,Pillaiyarkovil Veethi,Thatched (Hut),Open well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Banana, Corn, Other crops",Sugar cane,LPG,Aluminium pot,Yes,Directly to soakpit/ sewage canal,Yes,No
+242,11.343419,77.537001,6,Pillaiyarkovil Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Banana, Corn, Other crops",Sugar can,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+243,11.343281,77.537024,6,Pillaiyarkovil Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Banana, Corn, Other crops",Sugar can,LPG,Electric cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+244,11.342482,77.5369,6,Pillaiyarkovil Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Corn, Other crops, Banana",Sugar can,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+245,11.342447,77.536944,6,Pillaiyarkovil Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Corn, Banana, Other crops",Sugar can,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+246,11.343651,77.537053,6,Pillaiyarkovil Veethi,Thatched (Hut),Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Corn, Banana, Other crops",Banana,LPG,SS pot,Yes,Farming/ Gardening,Yes,Yes
+247,11.343149,77.537065,6,Pillaiyarkovil Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Coconut, Banana, Corn, Other crops",Sugar can,LPG,SS pot,Yes,Directly to soakpit/ sewage canal,No,No
+248,11.344306,77.536576,7,Nallampatti Koththukkarar Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Rice,Ragi,Firewood,Earthern pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+249,11.343723,77.53639,7,Nallampatti Mariamman Kovil Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,"Banana, Coconut",Rice,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+250,11.344318,77.536911,7,Nallampatti Koththukkarar Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,Yes,Yes,Rice,Rice,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+251,11.340404,77.529517,8,Old Thasamputhur,Thatched (Hut),Bore well,No,Bore well,Nil,Yes,Yes,"Banana, Rice, Coconut",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+252,11.341161,77.53095,8,Old Thasamputhur,Thatched (Hut),Both,No,Bore well,Nil,Yes,Yes,Rice,Sugarcane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+253,11.341115,77.529875,8,Pappangkadu Veeramathi Veethi,Thatched (Hut),Open well,No,Open well,Nil,Yes,No/ Not known,"Vegetables, Coconut, Other crops",Onion,LPG,Pressure cooker,No,Directly to ground,No,No
+254,11.342073,77.527144,8,West Puthuthottam,Thatched (Hut),Both,Yes,Open well,Nil,Yes,Yes,Rice,Sugarcane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+255,11.341115,77.529875,8,Pappangkadu Veeramathi Veethi,Thatched (Hut),Open well,No,Open well,Nil,Yes,No/ Not known,"Vegetables, Other crops",Brinjal,LPG,Pressure cooker,No,Directly to ground,No,No
+256,11.341161,77.53095,8,Pappangkadu Veeramathi Veethi,Thatched (Hut),Open well,Yes,Open well,Boiling,Yes,No/ Not known,"Vegetables, Other crops",Brinjal,LPG,Pressure cooker,No,Directly to ground,No,No
+257,11.341746,77.533566,8,Pappangkadu Veeramathi Veethi,Thatched (Hut),Open well,No,Open well,Nil,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,No,No
+258,11.342205,77.535989,8,Durgaiamman Kovil Veethi,Thatched (Hut),Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Rice, Vegetables, Coconut, Banana, Ground nut, Corn, Other crops","Bottle gourd ,bitter gourd",LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+259,11.341699,77.533449,8,Pappangkadu Veeramathi Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,"Rice, Vegetables",,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+260,11.341035,77.533678,8,Durgaiamman Kovil Veethi,Thatched (Hut),Nil,Yes,Panchyat water - Piped,Boiling,No,,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+261,11.341475,77.533537,8,Pappangkadu Veeramathi Veethi,Thatched (Hut),Nil,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Rice, Vegetables",,LPG,Pressure cooker,Yes,Directly to ground,Yes,Yes
+262,11.341727,77.534455,8,Durgaiamman Kovil Veethi,Thatched (Hut),Open well,Yes,Open well,Personal RO,Yes,No/ Not known,Vegetables,Brinjal,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+263,11.343847,77.52356,9,Aathikkattur Kamarajar Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Nil,,Firewood,SS pot,No,Directly to ground,No,No
+264,11.352737,77.516975,9,Masammavur Pomman Veethi,Thatched (Hut),Both,No,Open well,Nil,Yes,No/ Not known,"Ground nut, Other crops, Coconut",Vegetables,"Firewood, LPG",Aluminium pot,No,Farming/ Gardening,No,No
+265,,,9,Thasamputhur Kotthukarar Veethi,Thatched (Hut),Open well,Yes,Open well,Personal RO,Yes,No/ Not known,Banana,Sugar cane,LPG,SS pot,No,Directly to ground,Yes,Yes
+266,,,9,Thasamputhur Kotthukarar Veethi,Thatched (Hut),Both,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,Nil,Both market and garden,LPG,SS pot,No,Directly to ground,Yes,Yes
+267,11.338861,77.526293,9,Masammavur Pomman Veethi,Thatched (Hut),Open well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Coconut, Vegetables, Corn","Ladies finger,corn",LPG,SS pot,No,Directly to ground,Yes,Yes
+268,11.339476,77.526451,9,Thasamputhur Kotthukarar Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,No,,Corn,Sugar cane,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+269,11.334138,77.513032,9,Masammavur Pomman Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Other crops,No,LPG,SS pot,No,Farming/ Gardening,No,No
+270,11.341761,77.520558,9,Masammavur Pomman Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Ground nut,No,LPG,Aluminium pot,No,Directly to ground,No,No
+271,11.340543,77.526188,9,Thasamputhur Kotthukarar Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Other crops,No,LPG,SS pot,No,Directly to ground,No,No
+272,11.34044,77.525257,9,Thasamputhur Kotthukarar Veethi,Thatched (Hut),Bore well,No,Panchyat water - Piped,Nil,No,,Nil,No,LPG,SS pot,No,Directly to ground,Yes,Yes
+273,11.332991,77.518766,9,Masammavur Pomman Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Ground nut,,LPG,Pressure cooker,Yes,Directly to ground,No,No
+274,11.341478,77.530234,9,Masammavur Pomman Veethi,Thatched (Hut),Open well,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,SS pot,Yes,Directly to ground,Yes,Yes
+275,11.343381,77.523674,9,Aathikkattur Kamarajar Veethi,Thatched (Hut),Both,Yes,Bore well,Nil,Yes,Yes,"Other crops, Ground nut","Sugar cane, turmeric,tropica","LPG, Firewood",SS pot,No,Directly to ground,Yes,No
+276,11.337213,77.519516,9,Masammavur Pomman Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Ground nut, Other crops, Vegetables","Ladies finger,brinjal","LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+277,11.337304,77.519467,9,Masammavur Pomman Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Vegetables, Ground nut, Other crops","Cotton,ladies finger, brinjal","LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+278,11.342757,77.51918,9,Masammavur Pomman Veethi,Thatched (Hut),Both,No,Panchyat water - Piped,Nil,Yes,Yes,"Ground nut, Vegetables, Other crops, Coconut",,"LPG, Firewood",Aluminium pot,No,Directly to ground,No,No
+279,11.339347,77.520713,9,Masammavur Pomman Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,No,,Nil,,"LPG, Firewood",SS pot,No,Farming/ Gardening,No,No
+280,,,10,Naduvalasu Kothukarar Veethi,Thatched (Hut),Open well,Yes,Open well,Boiling,Yes,No/ Not known,"Rice, Banana, Vegetables, Coconut",,LPG,Pressure cooker,No,Directly to ground,No,No
+281,11.335042,77.542417,10,Naduvalasu Kothukarar Veethi,Thatched (Hut),Open well,Yes,Open well,Nil,Yes,Yes,Banana,Sugarcane,LPG,Pressure cooker,Yes,Directly to ground,Yes,Yes
+282,11.340941,77.53687,10,Annamaar Veethi Main Road,Thatched (Hut),Nil,Yes,Panchayat water - Overhead tank,Nil,No,,Nil,All vegetables,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+283,11.340274,77.542775,10,Annamaar Veethi Main Road,Thatched (Hut),Nil,Yes,Panchayat water - Overhead tank,Nil,No,,Vegetables,All vegetables,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+284,11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Thatched (Hut),Nil,No,Panchayat water - Syntex tank,Boiling,No,,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+285,11.336705,77.540625,10,Naduvalasu Kothukarar Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Banana,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,No
+286,11.336494,77.54385,10,Naduvalasu Kothukarar Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Banana,,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+287,11.340991,77.544314,11,Ricemill Puthur Colony,Thatched (Hut),Nil,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,Nil,,Firewood,Pressure cooker,No,Directly to ground,No,No
+288,11.343465,77.544208,11,Ricemill Puthur Colony,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Corn,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+289,11.339835,77.540625,11,Ricemill Puthur Colony,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,Aluminium pot,No,Directly to ground,No,No
+290,11.341067,77.544816,11,Ricemill Puthur Colony,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,No,,Nil,,"LPG, Firewood",Aluminium pot,No,Directly to ground,No,No
+291,11.337931,77.544924,11,Ricemill Puthur Colony,Thatched (Hut),Nil,No,Panchyat water - Piped,Personal RO,No,,Nil,,"LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+292,11.341257,77.544525,11,Ricemill Puthur Colony,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Corn,,"LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+293,,,12,Naduvalasu Cashier Veethi,Thatched (Hut),Bore well,Yes,Bore well,Nil,Yes,No/ Not known,"Banana, Other crops",Sugar cane,"Gobar gas, LPG",SS pot,No,Farming/ Gardening,Yes,Yes
+294,11.328777,77.525934,12,Manakkattu Puthur Pillaiyarkovil veethi,Thatched (Hut),Open well,No,Bore well,Nil,Yes,Yes,"Banana, Ground nut",,LPG,Pressure cooker,No,Farming/ Gardening,No,No
+295,11.345536,77.54385,12,Ricemill Puthur Thottapaguthigal,Thatched (Hut),Open well,No,Open well,Boiling,Yes,Yes,"Coconut, Banana, Vegetables, Ground nut, Corn",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+296,11.336489,77.537704,12,Naduvalasu Cashier Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Boiling,No,,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+297,11.325656,77.550657,12,Manakkattu Puthur Pillaiyarkovil veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Coconut,,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+298,11.332986,77.543133,12,Naduvalasu Cashier Veethi,Thatched (Hut),Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+299,11.33622,77.537484,12,Naduvalasu Nehru Veethi,Thatched (Hut),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Rice,No,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+300,,,12,Ricemill Puthur Thottapaguthigal,Thatched (Hut),Nil,No,Bore well,Boiling,Yes,No/ Not known,"Coconut, Banana",,"LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+301,11.352378,77.539822,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Both,Yes,Open well,Nil,Yes,Yes,"Banana, Coconut, Rice",,Gobar gas,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+302,11.351507,77.537042,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Both,Yes,Bore well,Nil,Yes,No/ Not known,"Vegetables, Rice, Coconut, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+303,11.355676,77.5288,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Bore well,No,Bore well,Boiling,Yes,No/ Not known,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+304,11.353605,77.529159,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Both,Yes,Bore well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+305,11.355367,77.531452,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Both,Yes,Bore well,Nil,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+306,11.351507,77.537042,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Open well,No,Bore well,Boiling,Yes,No/ Not known,"Coconut, Banana, Ground nut",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+307,11.353575,77.53091,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Bore well,No,Canned water,Nil,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+308,11.349613,77.536541,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+309,11.341161,77.53095,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,"Coconut, Banana","Cane, avarai, brinjal",LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+310,11.351507,77.537042,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Open well,No,Open well,Nil,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+311,11.350193,77.536488,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Both,Yes,Open well,Nil,Yes,Yes,"Coconut, Banana",Cane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+312,11.352674,77.53957,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Both,No,Open well,Nil,Yes,Yes,"Rice, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+313,11.344038,77.541342,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Both,No,Open well,Boiling,Yes,No/ Not known,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+314,11.350153,77.532963,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Open well,No,Open well,Nil,Yes,No/ Not known,"Rice, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+315,11.353098,77.532373,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,"Banana, Coconut","Cane, turmeric",LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+316,11.357139,77.534437,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Both,No,Open well,Nil,Yes,Yes,"Rice, Coconut, Banana, Other crops",Sugar cane,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+317,11.36785,77.5288,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,No,,"Rice, Vegetables, Coconut, Banana, Corn, Other crops, Ground nut",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+318,11.341719,77.527725,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Open well,No,Open well,Nil,Yes,Yes,"Rice, Vegetables, Banana, Corn, Other crops",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+319,11.353605,77.529159,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,Coconut,Cane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+320,11.332639,77.543133,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Banana, Corn",,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,No
+321,11.350859,77.538398,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Nil,No,Panchayat water - Syntex tank,Nil,Yes,No/ Not known,"Rice, Coconut, Banana, Other crops",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,No
+322,11.336796,77.542775,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Open well,Yes,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Banana",Sugercane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+323,11.354868,77.531445,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Both,No,Bore well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Corn, Other crops",,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+324,11.360638,77.53095,1,Pillaiyarkovil Veethi Thotta paguthigal,Tiled (Ottu),Both,Yes,Open well,Nil,Yes,Yes,"Coconut, Banana, Other crops",Stick yam,"LPG, Gobar gas",Pressure cooker,No,Farming/ Gardening,Yes,Yes
+325,11.3529,77.539515,1,Kothukaraveethi Thotta paguthigal,Tiled (Ottu),Both,No,Open well,Nil,Yes,Yes,"Rice, Banana, Other crops","Turmeric,sugarcane","LPG, Gobar gas",Pressure cooker,No,Farming/ Gardening,Yes,Yes
+326,11.359652,77.541873,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,Banana,,Firewood,Aluminium pot,No,Directly to ground,No,No
+327,11.345763,77.5505,2,JJ Nagar Thottapaguthigal,Tiled (Ottu),Both,No,Panchyat water - Piped,Personal RO,Yes,No/ Not known,"Vegetables, Banana",Tomato,"Firewood, LPG",Pressure cooker,No,Directly to ground,Yes,Yes
+328,11.349438,77.545641,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Nil,Yes,Open well,Nil,Yes,Yes,Nil,,"Gobar gas, LPG",Aluminium pot,No,Directly to ground,Yes,Yes
+329,11.347392,77.554344,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Bore well,No,Bore well,Nil,Yes,No/ Not known,Corn,Corn,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+330,11.350681,77.538621,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Open well,No,Bore well,Boiling,Yes,Yes,"Coconut, Banana",Sugar cane,LPG,Pressure cooker,No,Farming/ Gardening,No,No
+331,11.352227,77.542945,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Both,Yes,Bore well,Nil,Yes,No/ Not known,"Rice, Corn",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+332,11.351016,77.540262,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Both,No,Bore well,Nil,Yes,No/ Not known,Coconut,,LPG,Pressure cooker,No,Farming/ Gardening,No,No
+333,11.348936,77.53641,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Nil,No,Bore well,Boiling,Yes,Yes,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+334,,,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Bore well,Yes,Bore well,Nil,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+335,,,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,"Coconut, Banana, Ground nut",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+336,11.357474,77.540497,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,No/ Not known,"Rice, Banana, Coconut",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+337,,,2,JJ Nagar Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,Vegetables,Nil,LPG,SS pot,Yes,Farming/ Gardening,Yes,Yes
+338,11.359195,77.545075,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Open well,No,Open well,Nil,Yes,Yes,Rice,,LPG,Pressure cooker,No,Farming/ Gardening,No,No
+339,11.355468,77.539281,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,Banana,,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+340,11.350558,77.542987,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Nil,No,Open well,Nil,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+341,11.349924,77.539133,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Open well,No,Open well,Nil,No,,Nil,,LPG,SS pot,No,Directly to ground,No,No
+342,11.357278,77.525575,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Both,Yes,Open well,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana, Other crops","Lady's finger , brinjal",LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+343,11.346534,77.552027,2,JJ Nagar Thottapaguthigal,Tiled (Ottu),Both,Yes,Panchayat water - Overhead tank,Boiling,Yes,Yes,"Coconut, Ground nut, Corn, Banana, Rice, Vegetables","Bitter gourd, corn, sugercane . Etc",LPG,Bronze pot,No,Farming/ Gardening,Yes,Yes
+344,11.349872,77.538453,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Open well,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,Vegetables,Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+345,11.343465,77.544208,2,Kothukara Veethi Thottapaguthigal,Tiled (Ottu),Open well,No,Open well,Nil,Yes,Yes,"Nil, Coconut, Rice",,"LPG, Firewood",SS pot,No,Directly to ground,Yes,Yes
+346,11.346764,77.549677,3,JJ Nagar,Tiled (Ottu),Bore well,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,Nil,Firewood,Aluminium pot,No,Directly to ground,Yes,No
+347,11.336418,77.542058,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Bore well,Nil,Yes,No/ Not known,"Coconut, Rice, Corn, Ground nut, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+348,11.342529,77.546716,3,JJ Nagar,Tiled (Ottu),Bore well,No,Bore well,Nil,Yes,No/ Not known,Coconut,Coconut,LPG,SS pot,No,Directly to ground,Yes,Yes
+349,11.342091,77.551372,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Bore well,Yes,Bore well,Nil,Yes,No/ Not known,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+350,11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Bore well,Nil,Yes,Yes,"Vegetables, Banana, Coconut",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+351,11.339638,77.547848,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Bore well,Nil,Yes,No/ Not known,"Vegetables, Banana, Coconut",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+352,11.34213,77.543306,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Bore well,Nil,Yes,No/ Not known,Banana,Banana,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+353,,,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Open well,Nil,Yes,Yes,Nil,Market,LPG,SS pot,Yes,Farming/ Gardening,Yes,Yes
+354,11.341916,77.551519,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,"Other crops, Ground nut",Cotton,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+355,11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Open well,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,No
+356,11.336454,77.545976,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Both,Yes,Open well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+357,11.338455,77.545757,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,"Banana, Other crops",Potato,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+358,11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Both,Yes,Open well,Nil,Yes,No/ Not known,"Banana, Vegetables, Coconut, Ground nut, Corn",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+359,,,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Boiling,No,,Nil,Market,LPG,Earthern pot,No,Directly to ground,Yes,Yes
+360,11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,No/ Not known,"Rice, Vegetables, Banana, Coconut, Corn, Ground nut",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+361,11.340404,77.529517,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Open well,Nil,Yes,Yes,Vegetables,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+362,11.332986,77.543133,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Open well,Boiling,Yes,Yes,"Banana, Coconut, Ground nut",,LPG,Pressure cooker,No,Directly to ground,Yes,No
+363,,,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Panchayat water - Overhead tank,Nil,No,,Nil,Market,LPG,SS pot,No,Directly to ground,Yes,Yes
+364,11.346608,77.54997,3,JJ Nagar,Tiled (Ottu),Open well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Coconut,Coconut,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+365,,,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Bore well,Yes,Panchyat water - Piped,Nil,Yes,Yes,Nil,Market,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+366,11.341763,77.553013,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Vegetables, Rice, Coconut, Banana",,LPG,Aluminium pot,No,Farming/ Gardening,Yes,Yes
+367,11.342952,77.543577,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Both,Yes,Panchyat water - Piped,Boiling,Yes,Yes,Other crops,Suger cane,LPG,Aluminium pot,No,Farming/ Gardening,Yes,No
+368,11.346484,77.549486,3,JJ Nagar,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Vegetables,No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+369,11.346707,77.549957,3,JJ Nagar,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+370,11.346095,77.540625,3,JJ Nagar,Tiled (Ottu),Bore well,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,Nil,Nil,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+371,,,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Panchyat water - Piped,Personal RO,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+372,11.346476,77.549582,3,JJ Nagar,Tiled (Ottu),Nil,No,Panchyat water - Piped,Personal RO,No,,Nil,,"LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+373,,,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Panchyat water - Piped,Personal RO,No,,"Vegetables, Coconut, Banana",,"LPG, Firewood",Pressure cooker,No,Directly to ground,Yes,Yes
+374,11.34644,77.549725,3,JJ Nagar,Tiled (Ottu),Both,Yes,Panchyat water - Piped,Boiling,Yes,Yes,"Rice, Vegetables, Banana, Corn, Coconut, Ground nut",Ladies finger,"LPG, Firewood",Pressure cooker,No,Directly to ground,Yes,No
+375,,,3,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Nil,No,Panchyat water - Piped,Personal RO,No,,Nil,,"LPG, Firewood",Pressure cooker,No,Directly to ground,Yes,Yes
+376,11.341632,77.537607,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Vegetables,,Firewood,Earthern pot,No,Directly to soakpit/ sewage canal,No,No
+377,11.342514,77.538252,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,Nil,No,Firewood,SS pot,No,Directly to soakpit/ sewage canal,No,No
+378,11.342211,77.538069,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Open well,No,Panchyat water - Piped,Boiling,No,,Nil,,"Firewood, LPG",Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+379,11.341416,77.537704,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Open well,No,Open well,Personal RO,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Cabbage,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+380,11.341385,77.537788,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Open well,No,Open well,Nil,No,,Vegetables,,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+381,,,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchayat water - Overhead tank,Nil,Yes,No/ Not known,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+382,11.341988,77.538346,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Ladies finger,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+383,11.341331,77.537736,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Personal RO,No,,"Rice, Vegetables, Corn, Ground nut, Banana, Coconut, Other crops",Brinjal,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+384,11.342755,77.537934,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+385,11.343813,77.544208,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,Nil,No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+386,11.342219,77.538078,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Open well,No,Panchyat water - Piped,Nil,No,,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+387,11.342315,77.53806,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Corn, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+388,11.342305,77.538192,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Personal RO,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Ladies finger,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+389,11.342307,77.537941,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+390,11.34214,77.538099,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Spinach,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+391,11.344214,77.54787,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Banana,Corn,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+392,11.342269,77.540625,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+393,11.342401,77.537892,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Nil,No,LPG,Aluminium pot,Yes,Farming/ Gardening,No,No
+394,11.341853,77.53813,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Brinjal,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,No
+395,11.341272,77.537955,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,Earthern pot,No,Directly to soakpit/ sewage canal,No,No
+396,11.341425,77.538379,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana",Brinjal,LPG,SS pot,Yes,Directly to soakpit/ sewage canal,No,No
+397,11.34183,77.538475,4,Pattaththarasiamman Kovil Street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Nil,,"LPG, Kerosene",Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+398,11.342059,77.537598,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Vegetables, Coconut, Banana",,Firewood,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+399,11.342269,77.540625,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut",,Firewood,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+400,11.342178,77.537559,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,Nil,,Firewood,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+401,,,5,Gandhi Veethi,Tiled (Ottu),Open well,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Banana, Coconut, Vegetables",,"Firewood, LPG",Aluminium pot,No,Directly to ground,Yes,Yes
+402,,,5,Gandhi Veethi,Tiled (Ottu),Open well,No,Panchyat water - Piped,Boiling,No,,"Vegetables, Coconut, Banana",Spinach,"Firewood, LPG",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+403,11.344038,77.541342,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut",,Kerosene,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+404,11.344038,77.541342,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Open well,Nil,Yes,No/ Not known,"Vegetables, Coconut, Banana",,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+405,,,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,No
+406,11.343813,77.544208,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Banana,mango,LPG,Pressure cooker,No,Directly to ground,No,No
+407,,,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+408,11.344038,77.541342,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Aluminium pot,Yes,Directly to soakpit/ sewage canal,No,No
+409,,,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Coconut, Banana, Vegetables",Spinach,LPG,Aluminium pot,No,Directly to ground,No,No
+410,11.351507,77.537042,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Coconut, Vegetables",,LPG,Aluminium pot,Yes,Directly to ground,No,No
+411,,,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Banana,,LPG,Pressure cooker,No,Directly to ground,No,No
+412,,,5,Gandhi Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Personal RO,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+413,11.344341,77.544052,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+414,11.340817,77.536862,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,"Coconut, Banana",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+415,11.342185,77.537567,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,"Vegetables, Coconut, Banana",Spinach,LPG,Aluminium pot,Yes,Directly to ground,Yes,Yes
+416,11.341537,77.537638,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,Nil,,LPG,SS pot,Yes,Directly to ground,No,No
+417,11.341838,77.536491,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+418,,,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Coconut, Banana",,LPG,Aluminium pot,Yes,Farming/ Gardening,Yes,No
+419,11.341312,77.537639,5,Pattatharasiamman kovil street,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Banana, Vegetables",,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+420,11.34172,77.536804,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,No
+421,11.343813,77.544208,5,Gandhi Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Boiling,Yes,Yes,Vegetables,,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+422,11.351507,77.537042,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Coconut, Banana",,LPG,Pressure cooker,Yes,Directly to ground,Yes,Yes
+423,,,5,Gandhi Veethi,Tiled (Ottu),Open well,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+424,11.34168,77.536938,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+425,11.351507,77.537042,5,Gandhi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Banana, Coconut",,"LPG, Firewood",Aluminium pot,No,Directly to ground,No,No
+426,,,6,Pillaiyarkovil Veethi,Tiled (Ottu),Bore well,No,Bore well,Nil,No,,Nil,Nil,LPG,SS pot,No,Directly to ground,No,Yes
+427,,,6,Pillaiyarkovil Veethi,Tiled (Ottu),Bore well,No,Bore well,Nil,Yes,Yes,Nil,Nil,LPG,SS pot,No,Farming/ Gardening,No,No
+428,11.343533,77.537614,6,Pillaiyarkovil Veethi,Tiled (Ottu),Bore well,Yes,Bore well,Nil,Yes,No/ Not known,"Rice, Banana, Corn, Other crops",Banana,LPG,SS pot,No,Farming/ Gardening,Yes,Yes
+429,11.346476,77.549582,6,Pillaiyarkovil Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,Nil,Nil,LPG,Pressure cooker,Yes,Directly to ground,Yes,Yes
+430,11.343451,77.537004,6,Pillaiyarkovil Veethi,Tiled (Ottu),Both,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,Nil,Nil,LPG,SS pot,Yes,Directly to ground,Yes,Yes
+431,11.343803,77.537055,6,Pillaiyarkovil Veethi,Tiled (Ottu),Bore well,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Coconut, Banana, Corn, Other crops",Sugar can,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+432,11.344104,77.537102,6,Pillaiyarkovil Veethi,Tiled (Ottu),Both,Yes,Panchyat water - Piped,Boiling,Yes,Yes,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+433,11.343268,77.537343,6,Pillaiyarkovil Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Boiling,Yes,Yes,"Coconut, Banana, Rice, Other crops","Cane, turmeric",LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+434,11.343308,77.537072,6,Pillaiyarkovil Veethi,Tiled (Ottu),Both,Yes,Panchyat water - Piped,Personal RO,Yes,No/ Not known,Nil,Nil,LPG,SS pot,Yes,Directly to ground,Yes,No
+435,11.343465,77.544208,6,Pillaiyarkovil Veethi,Tiled (Ottu),Bore well,Yes,Panchyat water - Piped,Nil,No,,Nil,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,No,No
+436,11.343465,77.544208,6,Pillaiyarkovil Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Boiling,No,,Nil,Nil,LPG,Pressure cooker,No,Directly to ground,No,No
+437,11.341406,77.536684,6,Pillaiyarkovil Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,Nil,Nil,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+438,11.343377,77.537152,6,Pillaiyarkovil Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,"Coconut, Rice, Banana","Cane, turmeric",LPG,Pressure cooker,Yes,Directly to ground,No,No
+439,11.343342,77.537213,6,Pillaiyarkovil Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Coconut, Banana, Rice","Cane, turmeric",LPG,Pressure cooker,Yes,Directly to ground,No,No
+440,11.335986,77.537224,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Banana",,Firewood,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+441,11.344653,77.536311,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Open well,Yes,Bore well,Nil,Yes,Yes,Banana,No,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+442,11.343166,77.536425,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Open well,No,Bore well,Boiling,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",No,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+443,11.344206,77.536347,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Nil,Yes,Bore well,Nil,No,,Nil,No,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+444,11.34239,77.535993,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Open well,No,Open well,Boiling,No,,"Vegetables, Coconut, Banana, Corn, Ground nut, Rice",No,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+445,11.342546,77.536113,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Bore well,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,Rice,Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+446,,,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Syntex tank,Nil,No,,Vegetables,"Snake gourd,ridge gourd",LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+447,11.344287,77.536293,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Rice,Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+448,11.344448,77.536632,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,Nil,Rice,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+449,11.343465,77.544208,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Nil,Yes,Yes,Rice,Ragi,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+450,11.344006,77.53631,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Rice,No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,No
+451,11.344263,77.536352,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Rice,Tomato chilli sugar cane,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,Yes
+452,11.344069,77.53627,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Rice,No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+453,,,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Open well,No,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+454,11.344315,77.536515,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Rice, Vegetables",Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+455,11.343465,77.544208,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Open well,No,Panchyat water - Piped,Nil,No,,Rice,No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+456,11.342147,77.537758,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Banana",No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+457,11.34232,77.535831,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Rice,Rice,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+458,11.343148,77.536541,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Bore well,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,Vegetables,Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+459,11.343063,77.537015,7,Nallampatti Koththukkarar Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Coconut",No,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+460,,,7,Nallampatti Mariamman Kovil Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Boiling,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",No,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+461,11.341161,77.53095,8,West Puthuthottam,Tiled (Ottu),Both,Yes,Bore well,Boiling,Yes,Yes,Other crops,Sugarcane,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+462,11.341161,77.53095,8,West Puthuthottam,Tiled (Ottu),Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Nil,,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+463,11.346931,77.5244,8,Old Thasamputhur,Tiled (Ottu),Open well,Yes,Bore well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Ground nut",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+464,11.342128,77.527192,8,West Puthuthottam,Tiled (Ottu),Both,Yes,Bore well,Personal RO,Yes,Yes,"Rice, Vegetables, Ground nut, Corn, Banana","Brinjal,lady's finger, turmeric",LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+465,11.347276,77.524132,8,Old Thasamputhur,Tiled (Ottu),Open well,Yes,Open well,Boiling,Yes,Yes,"Rice, Banana, Vegetables, Other crops, Coconut","Lady's finger,bitter guard,snake guard.",LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+466,11.34389,77.528457,8,West Puthuthottam,Tiled (Ottu),Both,Yes,Open well,Nil,Yes,Yes,Coconut,Sugarcane,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+467,11.347294,77.524385,8,Old Thasamputhur,Tiled (Ottu),Nil,Yes,Open well,Nil,Yes,Yes,"Rice, Banana, Other crops, Coconut",Sugar cane,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+468,11.341649,77.534571,8,Durgaiamman Kovil Veethi,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,No/ Not known,"Vegetables, Ground nut, Other crops",Lady's finger,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+469,11.340989,77.533545,8,Pappangkadu Veeramathi Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Rice, Coconut, Banana, Corn, Ground nut, Other crops","Lady's finger ,Bitter gourd Bottle gourd ,Ridge gourd,Brinjal",LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+470,11.34232,77.535839,8,Durgaiamman Kovil Veethi,Tiled (Ottu),Nil,No,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Banana, Corn, Ground nut","Bitter gourd,Bottle gourd,Lady's finger,Ridge gourd",LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+471,11.347197,77.524072,8,Old Thasamputhur,Tiled (Ottu),Open well,Yes,Panchayat water - Syntex tank,Boiling,Yes,Yes,"Banana, Rice, Other crops, Vegetables","Sugar cane,tomato,brinjal,lady's finger",LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+472,11.342114,77.53618,8,Durgaiamman Kovil Veethi,Tiled (Ottu),Open well,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Rice, Other crops, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+473,11.342336,77.536463,8,Durgaiamman Kovil Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+474,11.342317,77.535952,8,Durgaiamman Kovil Veethi,Tiled (Ottu),Open well,Yes,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Rice, Vegetables",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+475,11.340975,77.533807,8,Pappangkadu Veeramathi Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,No,,Vegetables,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+476,11.341115,77.529875,8,Durgaiamman Kovil Veethi,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,"Vegetables, Coconut, Ground nut, Other crops",Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+477,11.345048,77.532384,8,Durgaiamman Kovil Veethi,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,No/ Not known,"Rice, Vegetables",,"LPG, Firewood",SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+478,11.341097,77.533772,8,Pappangkadu Veeramathi Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Banana",,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+479,11.341478,77.530234,8,Pappangkadu Veeramathi Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Overhead tank,Nil,No,,"Vegetables, Coconut, Banana, Corn, Ground nut, Other crops, Rice",,"LPG, Firewood",SS pot,No,Directly to soakpit/ sewage canal,No,No
+480,11.33998,77.527725,8,Durgaiamman Kovil Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables",,"LPG, Firewood",Aluminium pot,No,Directly to ground,No,No
+481,11.341739,77.533563,8,Pappangkadu Veeramathi Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Rice, Vegetables",,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+482,11.343424,77.529379,8,Old Thasamputhur,Tiled (Ottu),Both,Yes,Bore well,Nil,Yes,Yes,"Rice, Banana, Other crops",Sugarcane,"LPG, Gobar gas",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+483,11.338853,77.527376,9,Thasamputhur Kotthukarar Veethi,Tiled (Ottu),Open well,No,Bore well,Boiling,Yes,Yes,"Banana, Ground nut",Nil,Firewood,Aluminium pot,No,Directly to ground,Yes,Yes
+484,11.33998,77.527725,9,Aathikkattur Kamarajar Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,"Ground nut, Corn",Tomato,"Firewood, LPG",Pressure cooker,No,Farming/ Gardening,Yes,Yes
+485,11.336742,77.519107,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Vegetables, Rice",,"Firewood, LPG",Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+486,11.338331,77.520863,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Vegetables, Ground nut, Other crops",,"Firewood, LPG",SS pot,No,Directly to soakpit/ sewage canal,No,No
+487,11.344307,77.523096,9,Aathikkattur Kamarajar Veethi,Tiled (Ottu),Open well,Yes,Bore well,Nil,Yes,No/ Not known,"Vegetables, Other crops",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,No
+488,11.344308,77.523069,9,Aathikkattur Kamarajar Veethi,Tiled (Ottu),Open well,Yes,Bore well,Boiling,Yes,Yes,"Banana, Vegetables",Brinjal,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+489,,,9,Aathikkattur Kamarajar Veethi,Tiled (Ottu),Bore well,Yes,Bore well,Nil,Yes,No/ Not known,Nil,Both crop and market,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+490,11.339571,77.526292,9,Masammavur Pomman Veethi,Tiled (Ottu),Open well,No,Open well,Nil,Yes,No/ Not known,Vegetables,,LPG,Pressure cooker,No,Farming/ Gardening,Yes,No
+491,11.340849,77.519683,9,Masammavur Pomman Veethi,Tiled (Ottu),Open well,No,Open well,Nil,Yes,Yes,"Rice, Vegetables, Banana, Corn, Ground nut",Tapioca,LPG,Pressure cooker,No,Directly to ground,No,No
+492,11.341828,77.519408,9,Masammavur Pomman Veethi,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,"Banana, Coconut, Other crops",Small crops,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+493,11.344462,77.510524,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Open well,Nil,Yes,Yes,Ground nut,Ground nut,LPG,Pressure cooker,No,Directly to ground,No,No
+494,11.342255,77.520105,9,Masammavur Pomman Veethi,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,No/ Not known,"Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+495,11.339211,77.525683,9,Thasaiyar Veethi,Tiled (Ottu),Bore well,Yes,Open well,Nil,Yes,Yes,Other crops,Stick yam,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+496,11.348139,77.515183,9,Masammavur Pomman Veethi,Tiled (Ottu),Open well,No,Open well,Boiling,Yes,Yes,"Corn, Ground nut, Vegetables",Bitter guard,LPG,Pressure cooker,Yes,Farming/ Gardening,Yes,No
+497,11.34287,77.519263,9,Masammavur Pomman Veethi,Tiled (Ottu),Open well,No,Open well,Nil,No,,Nil,,LPG,Pressure cooker,No,Directly to ground,Yes,No
+498,11.339086,77.527211,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Open well,Boiling,Yes,Yes,"Coconut, Other crops",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+499,,,9,Thasamputhur Kotthukarar Veethi,Tiled (Ottu),Open well,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+500,11.340537,77.525308,9,Thasamputhur Kotthukarar Veethi,Tiled (Ottu),Both,Yes,Panchayat water - Overhead tank,Nil,Yes,No/ Not known,Nil,Nil,LPG,SS pot,No,Directly to ground,Yes,Yes
+501,11.339851,77.526073,9,Thasamputhur Kotthukarar Veethi,Tiled (Ottu),Open well,Yes,Panchyat water - Piped,Nil,No,,Nil,Nil,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+502,11.337516,77.519869,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Ground nut, Corn",Tomato,LPG,Pressure cooker,No,Directly to ground,No,No
+503,11.340404,77.529517,9,Thasaiyar Veethi,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Boiling,Yes,Yes,"Coconut, Other crops",Stick yam,LPG,Pressure cooker,Yes,Directly to ground,Yes,Yes
+504,11.339367,77.52028,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Vegetables, Rice",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+505,11.340404,77.529517,9,Thasaiyar Veethi,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Nil,No,,Nil,No,LPG,SS pot,No,Directly to ground,No,No
+506,11.338822,77.526258,9,Thasamputhur Kotthukarar Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Boiling,Yes,Yes,Nil,Nil,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+507,11.339955,77.52626,9,Thasamputhur Kotthukarar Veethi,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Nil,No,,Nil,No,LPG,SS pot,No,Directly to ground,No,No
+508,11.337592,77.519955,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,Pressure cooker,No,Farming/ Gardening,No,No
+509,11.339644,77.519842,9,Masammavur Pomman Veethi,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Boiling,Yes,Yes,"Vegetables, Ground nut",Bottleguard,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+510,11.339529,77.52054,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Vegetables,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+511,11.339861,77.526099,9,Thasamputhur Kotthukarar Veethi,Tiled (Ottu),Both,Yes,Panchyat water - Piped,Boiling,Yes,Yes,Nil,Nil,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+512,11.341076,77.534728,9,Thasamputhur Kotthukarar Veethi,Tiled (Ottu),Open well,No,Open well,Nil,Yes,Yes,"Vegetables, Ground nut, Corn","Green chilli,ladies finger,tropica, bottle gaurd,bitter gaurd","LPG, Firewood",Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+513,11.334138,77.513032,9,Aathikkattur Kamarajar Veethi,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,No/ Not known,"Vegetables, Ground nut, Corn","Tropical,bitterguard,","LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+514,,,9,Thasaiyar Veethi,Tiled (Ottu),Open well,No,Panchayat water - Overhead tank,Nil,Yes,No/ Not known,Nil,Both market and garden,"LPG, Firewood",SS pot,Yes,Directly to ground,Yes,Yes
+515,11.339961,77.519893,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Vegetables,,"LPG, Firewood",SS pot,No,Directly to soakpit/ sewage canal,No,No
+516,11.3334,77.5202,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Vegetables, Ground nut, Other crops",,"LPG, Firewood",Aluminium pot,No,Directly to ground,No,No
+517,11.338041,77.520706,9,Masammavur Pomman Veethi,Tiled (Ottu),Bore well,No,Panchyat water - Piped,Nil,Yes,Yes,Vegetables,Tomato,"LPG, Firewood",SS pot,Yes,Farming/ Gardening,Yes,Yes
+518,11.338099,77.52092,9,Masammavur Pomman Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,"Vegetables, Ground nut, Other crops",,"LPG, Firewood",Aluminium pot,No,Directly to ground,No,No
+519,,,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Bore well,Nil,Yes,No/ Not known,"Rice, Coconut, Banana, Vegetables",,Gobar gas,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+520,11.337667,77.537137,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Open well,No,Open well,Nil,No,,Vegetables,All vegetables,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+521,11.337048,77.537433,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+522,,,10,Annamaar Veethi Main Road,Tiled (Ottu),Nil,Yes,Panchayat water - Overhead tank,Nil,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+523,11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Overhead tank,Boiling,No,,"Vegetables, Banana","Brinjal,spinach,drumstick",LPG,Pressure cooker,Yes,Directly to ground,Yes,No
+524,11.337921,77.538001,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Overhead tank,Nil,Yes,No/ Not known,"Rice, Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+525,11.337205,77.537703,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,No,Panchayat water - Syntex tank,Boiling,No,,Nil,,LPG,Pressure cooker,No,Directly to ground,No,No
+526,11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Syntex tank,Boiling,No,,Vegetables,All vegetables,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+527,11.337541,77.537243,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Syntex tank,Nil,Yes,Yes,"Nil, Other crops",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+528,11.337587,77.53788,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Syntex tank,Nil,No,,Nil,All vegetables,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,No
+529,11.340648,77.537582,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Panchayat water - Syntex tank,Nil,Yes,Yes,"Vegetables, Banana",All vegetables,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+530,11.337629,77.537989,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Boiling,No,,Nil,,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+531,11.333712,77.54385,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+532,11.337538,77.537153,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Rice, Vegetables",All vegetables,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+533,11.337508,77.537503,10,Naduvalasu Kothukarar Veethi,Tiled (Ottu),Open well,No,Panchayat water - Syntex tank,Nil,No,,Vegetables,All vegetables,"LPG, Firewood",Pressure cooker,No,Directly to ground,No,No
+534,11.340146,77.544472,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Other crops",,LPG,Aluminium pot,No,Directly to ground,No,No
+535,11.340883,77.544465,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,Aluminium pot,No,Directly to ground,No,No
+536,11.33586,77.545283,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Personal RO,No,,Nil,,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+537,11.340806,77.544894,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,Yes,"Banana, Rice",,LPG,Aluminium pot,No,Directly to ground,No,No
+538,11.340897,77.54481,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,SS pot,No,Directly to ground,Yes,No
+539,11.340229,77.544168,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Other crops",,LPG,Aluminium pot,No,Directly to ground,No,No
+540,11.340895,77.54464,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,LPG,SS pot,No,Directly to ground,No,No
+541,11.340488,77.544322,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Other crops",,LPG,Aluminium pot,No,Directly to ground,No,No
+542,11.341236,77.544483,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,Yes,Ground nut,,LPG,Pressure cooker,No,Directly to ground,No,No
+543,11.340364,77.544574,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Other crops",,LPG,Aluminium pot,No,Directly to ground,No,No
+544,11.340848,77.544003,11,Ricemill Puthur Colony,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,,"LPG, Firewood",Aluminium pot,No,Directly to ground,Yes,No
+545,11.340404,77.529517,12,Naduvalasu LIC Veethi,Tiled (Ottu),Bore well,Yes,Bore well,Boiling,Yes,Yes,"Banana, Coconut",Cane,"Firewood, LPG",Pressure cooker,No,Directly to ground,Yes,Yes
+546,11.332639,77.543133,12,Naduvalasu Cashier Veethi,Tiled (Ottu),Open well,No,Open well,Nil,Yes,No/ Not known,Vegetables,Bitter guard carrot,"Firewood, LPG",Aluminium pot,No,Directly to ground,No,No
+547,11.334874,77.538475,12,Naduvalasu Cashier Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,No,,"Rice, Vegetables",,"Firewood, LPG",Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+548,11.334862,77.546358,12,Manakkattu Puthur Pillaiyarkovil veethi,Tiled (Ottu),Both,No,Open well,Nil,Yes,Yes,Vegetables,All,"Gobar gas, LPG",Pressure cooker,No,Farming/ Gardening,Yes,Yes
+549,,,12,Naduvalasu LIC Veethi,Tiled (Ottu),Open well,Yes,Open well,Boiling,Yes,No/ Not known,"Vegetables, Coconut, Banana",,"Gobar gas, LPG",SS pot,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+550,11.341692,77.53525,12,Naduvalasu Nehru Veethi,Tiled (Ottu),Open well,No,Bore well,Personal RO,Yes,Yes,"Vegetables, Rice, Coconut, Banana, Corn, Ground nut, Other crops",Bottle guard,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,Yes,Yes
+551,11.335814,77.544208,12,Manakkattu Puthur Pillaiyarkovil veethi,Tiled (Ottu),Bore well,Yes,Bore well,Boiling,Yes,Yes,Nil,,LPG,Pressure cooker,No,Farming/ Gardening,Yes,No
+552,11.336941,77.538846,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Both,Yes,Bore well,Boiling,Yes,Yes,"Coconut, Banana",Nil,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+553,11.335083,77.556077,12,Manakkattu Puthur Pillaiyarkovil veethi,Tiled (Ottu),Bore well,No,Bore well,Nil,Yes,No/ Not known,Nil,,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,No
+554,11.336116,77.543133,12,Oonjakadu,Tiled (Ottu),Both,Yes,Bore well,Nil,Yes,Yes,"Other crops, Rice, Banana",Sugarcane,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+555,11.336924,77.547427,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Bore well,Yes,Bore well,Boiling,Yes,No/ Not known,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+556,11.335088,77.543491,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Nil,No,Bore well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana",,LPG,Aluminium pot,No,Farming/ Gardening,Yes,Yes
+557,,,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Bore well,Boiling,No,,"Coconut, Banana",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+558,11.337122,77.548104,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Both,Yes,Bore well,Nil,Yes,Yes,"Rice, Vegetables, Coconut, Banana, Ground nut",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+559,11.339659,77.548946,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Both,Yes,Open well,Nil,Yes,Yes,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+560,11.334151,77.550523,12,Manakkattu Puthur Pillaiyarkovil veethi,Tiled (Ottu),Open well,No,Open well,Nil,Yes,Yes,Vegetables,All vegetables,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+561,11.335914,77.537878,12,Naduvalasu Cashier Veethi,Tiled (Ottu),Nil,Yes,Open well,Nil,No,,Rice,No,LPG,Pressure cooker,No,Directly to ground,Yes,Yes
+562,11.343465,77.544208,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,No,Open well,Nil,No,,"Banana, Coconut, Vegetables, Ground nut",,LPG,Pressure cooker,No,Directly to ground,Yes,No
+563,11.336849,77.547248,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Open well,Yes,Open well,Nil,Yes,Yes,"Banana, Other crops",Amla,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+564,11.33655,77.544979,12,Ricemill Puthur Thottapaguthigal,Tiled (Ottu),Nil,No,Open well,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,Yes
+565,11.336116,77.543133,12,Manakkattu Puthur Pillaiyarkovil veethi,Tiled (Ottu),Nil,Yes,Open well,Nil,Yes,Yes,Nil,,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+566,,,12,Manakkattu Puthur Pillaiyarkovil veethi,Tiled (Ottu),Both,Yes,Panchayat water - Overhead tank,Nil,Yes,Yes,Nil,Market,LPG,SS pot,No,Directly to ground,Yes,Yes
+567,,,12,Manakkattu Puthur Pillaiyarkovil veethi,Tiled (Ottu),Open well,Yes,Panchayat water - Overhead tank,Nil,Yes,No/ Not known,"Banana, Ground nut, Rice",,LPG,Pressure cooker,No,Farming/ Gardening,Yes,Yes
+568,11.336178,77.537231,12,Naduvalasu LIC Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+569,11.332986,77.543133,12,Naduvalasu Cashier Veethi,Tiled (Ottu),Open well,No,Panchyat water - Piped,Nil,Yes,Yes,"Rice, Coconut",Rice,LPG,Aluminium pot,No,Directly to soakpit/ sewage canal,No,No
+570,11.333712,77.54385,12,Naduvalasu Cashier Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,Nil,No,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+571,11.336422,77.537415,12,Naduvalasu LIC Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+572,11.336116,77.543133,12,Naduvalasu Cashier Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,"Rice, Other crops",,LPG,Aluminium pot,No,Directly to ground,Yes,Yes
+573,11.339835,77.540625,12,Naduvalasu Cashier Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,Yes,No/ Not known,Nil,Nil,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,Yes,No
+574,11.336115,77.537616,12,Naduvalasu Nehru Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Personal RO,No,,"Rice, Vegetables, Coconut, Banana, Corn, Ground nut, Other crops",Bitter guard,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+575,11.336194,77.537148,12,Naduvalasu LIC Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Vegetables, Coconut, Banana",,LPG,Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
+576,11.336203,77.537453,12,Naduvalasu Cashier Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,Yes,No/ Not known,Coconut,,LPG,Pressure cooker,No,Directly to ground,Yes,No
+577,11.332986,77.543133,12,Naduvalasu LIC Veethi,Tiled (Ottu),Nil,Yes,Panchyat water - Piped,Nil,No,,Nil,,LPG,SS pot,No,Directly to soakpit/ sewage canal,Yes,Yes
+578,11.334874,77.538475,12,Manakkattu Puthur Pillaiyarkovil veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Nil,No,,"Coconut, Banana",,LPG,Pressure cooker,Yes,Directly to soakpit/ sewage canal,No,No
+579,,,12,Naduvalasu LIC Veethi,Tiled (Ottu),Nil,No,Panchyat water - Piped,Boiling,No,,"Coconut, Banana",,"LPG, Firewood",Pressure cooker,No,Directly to soakpit/ sewage canal,No,No
