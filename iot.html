@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT Water Quality Analysis</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        #plot {
+            width: 100%;
+            height: 600px;
+            margin-bottom: 30px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 5px;
+        }
+
+        #analysis {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        pre {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        font-family: 'Georgia', serif;
+        font-size: 16px;
+        line-height: 1.8;
+        text-align: left;
+        background: linear-gradient(to right, #f6f8fa, #e9ecef);
+        border-left: 5px solid #007bff;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 0 15px 15px 0;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+        color: #2c3e50;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        overflow: hidden;
+    }
+
+    pre::before {
+        content: '🌊';
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 24px;
+        opacity: 0.5;
+    }
+
+    pre::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 100px;
+        height: 100px;
+        border-radius: 0 0 15px 0;
+    }
+
+    pre strong {
+        font-weight: bold;
+    }
+
+    pre em {
+        font-style: italic;
+        color: #28a745;
+    }
+
+    @media (max-width: 768px) {
+        pre {
+            font-size: 14px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+    }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            #plot {
+                height: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>IoT Water Quality Analysis</h1>
+    <div id="plot"></div>
+    <div id="analysis">
+        <pre>{{ analysis }}</pre>
+    </div>
+    <script>
+        var plotData = {{ plot_json | safe }};
+        Plotly.newPlot('plot', plotData.data, plotData.layout);
+    </script>
+</body>
+</html>
