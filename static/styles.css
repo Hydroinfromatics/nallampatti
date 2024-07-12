@@ -42,7 +42,20 @@ header {
 header:hover {
     background-color: var(--secondary-color);
 }
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.logo-left, .logo-right {
+    width: 100px; /* Adjust as needed */
+}
+
+.logo-left img, .logo-right img {
+    width: 100%;
+    height: auto;
+}
 .logo {
     display: flex;
     align-items: center;
