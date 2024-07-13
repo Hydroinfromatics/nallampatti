@@ -7,24 +7,24 @@ def home():
     port = current_app.config['PORT']
     
     # Content for the home page
-    welcome_message = "Every Drop Counts, Every Voice Matters"
+    welcome_message = "Unraveling the Water-Health-Agriculture Nexus in Rural India"
 
     intro_text = "Nallampatti Water Wellness Initiative: Mapping Our Community's Aquatic Health"
     
     features = [
         {
             "title": "Rich Heritage",
-            "description": "Explore our centuries-old temples and traditional architecture.",
+            "description": "Immerse yourself in our culture as you explore centuries-old temples and traditional architecture. These structures not only showcase our history but also remind us of the timeless importance of harmonious living with our environment.",
             "image": "nal.jpg"
         },
         {
             "title": "Natural Beauty",
-            "description": "Experience the lush greenery and scenic landscapes surrounding our village.",
+            "description": "Experience the lush greenery and scenic landscapes surrounding our village. Our fertile lands are both our pride and our responsibility, as we work to maintain their health alongside our own.",
             "image": "nal2.jpg"
         },
         {
-            "title": "Sensor Installation in Tropical Garden",
-            "description": "Natural backdrop showcasing the implementation of sensor technology, implying a blend of nature and modern monitoring systems",
+            "title": "Blending Nature and Technology",
+            "description": "Witness our innovative approach to environmental monitoring. In our tropical gardens, we've installed cutting-edge sensors, seamlessly integrating modern technology with our natural surroundings. This fusion allows us to gather crucial data on our water quality and its impact on our community's health.",
             "image": "nal4.jpeg"
         }
     ]
