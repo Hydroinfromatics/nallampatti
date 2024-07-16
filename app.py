@@ -1,6 +1,6 @@
 from flask import Flask
 from home import home_bp
-from map import map_bp
+from insights import insights_bp
 from dashboard import dashboard_bp
 from contact import contact_bp
 from gallery import gallery_bp

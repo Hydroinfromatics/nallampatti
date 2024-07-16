@@ -6,7 +6,7 @@ import json
 
 app = Flask(__name__)
 
-dashboard_bp = Blueprint('dashboard', __name__, url_prefix='/dashboard')
+insights_bp = Blueprint('insights', __name__, url_prefix='/insights')
 
 # Read the CSV data
 household_data = pd.read_csv(r'Household_lifestyle.csv')
