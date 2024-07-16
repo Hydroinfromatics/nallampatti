@@ -8,7 +8,7 @@ from iot import iot_bp
 app = Flask(__name__)
 
 app.register_blueprint(home_bp)
-app.register_blueprint(map_bp)
+app.register_blueprint(insights_bp)
 app.register_blueprint(dashboard_bp)
 app.register_blueprint(contact_bp)
 app.register_blueprint(gallery_bp)
