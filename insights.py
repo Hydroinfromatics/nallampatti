@@ -146,7 +146,7 @@ html_template = '''
 </html>
 '''
 
-@dashboard_bp.route('/')
+@insights_bp.route('/')
 def dashboard():
     household_options = [
         {'label': 'Source of Drinking Water', 'value': 'Source_of_drinking'},
@@ -157,7 +157,7 @@ def dashboard():
     general_options = [{'label': col, 'value': col} for col in general_data.columns if col not in exclude_columns]
     return render_template_string(html_template, household_options=household_options, general_options=general_options)
 
-@dashboard_bp.route('/update_household_chart', methods=['POST'])
+@insights_bp.route('/update_household_chart', methods=['POST'])
 def update_household_chart():
     selected_category = request.json['selected_category']
     counts = household_data[selected_category].value_counts()
@@ -196,7 +196,7 @@ def update_household_chart():
         'summary': summary
     })
 
-@dashboard_bp.route('/update_general_chart', methods=['POST'])
+@insights_bp.route('/update_general_chart', methods=['POST'])
 def update_general_chart():
     selected_column = request.json['selected_column']
     value_counts = general_data[selected_column].value_counts()
