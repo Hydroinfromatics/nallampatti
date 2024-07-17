@@ -7,6 +7,10 @@ from functools import lru_cache
 
 dashboard_bp = Blueprint('dashboard', __name__)
 
+# Professional color scheme
+professional_colors = ['#1f77b4', '#aec7e8', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896']
+blue_scale = ['#e6f2ff', '#bdd7e7', '#6baed6', '#3182bd', '#08519c']
+
 # Data loading and preprocessing
 @lru_cache(maxsize=None)
 def load_data():
@@ -24,7 +28,7 @@ def dashboard():
     death_df, household_df, _ = load_data()
     wards = sorted(household_df['Ward'].unique())
     age_range = [int(death_df['Age'].min()), int(death_df['Age'].max())]
-    return render_template('dash.html', title="Space Colony Dashboard", wards=wards, age_range=age_range)
+    return render_template('dashboard.html', title="Community Dashboard", wards=wards, age_range=age_range)
 
 @dashboard_bp.route('/mortality_charts')
 def mortality_charts():
@@ -38,23 +42,23 @@ def mortality_charts():
                                   title='Distribution of Mortality Causes by Age Group',
                                   labels={'Age_Group': 'Age Group', 'count': 'Number of Cases'},
                                   height=500,
-                                  color_discrete_sequence=px.colors.sequential.Plasma)
+                                  color_discrete_sequence=professional_colors)
     
     ward_mortality = filtered_df['Ward'].value_counts().reset_index()
     ward_mortality.columns = ['Ward', 'Cases']
     ward_mortality_fig = px.bar(ward_mortality, x='Ward', y='Cases',
-                                title='Mortality Cases by Colony Ward',
+                                title='Mortality Cases by Ward',
                                 labels={'Ward': 'Ward Number', 'Cases': 'Number of Cases'},
                                 height=500,
                                 color='Cases',
-                                color_continuous_scale=px.colors.sequential.Viridis)
+                                color_continuous_scale=blue_scale)
     
     top_causes = filtered_df['Reason'].value_counts().nlargest(3)
     analysis_text = f"""
-    Key Observations in Space Colony:
+    Key Observations:
     1. The top 3 causes of mortality in the selected age range are:
        {', '.join([f"{cause} ({count} cases)" for cause, count in top_causes.items()])}
-    2. Colony Ward {ward_mortality['Ward'].iloc[0]} has the highest number of cases with {ward_mortality['Cases'].iloc[0]} reported.
+    2. Ward {ward_mortality['Ward'].iloc[0]} has the highest number of cases with {ward_mortality['Cases'].iloc[0]} reported.
     3. The {filtered_df['Age_Group'].value_counts().index[0]} age group shows the highest incidence of cases.
     """
     
@@ -76,10 +80,10 @@ def infrastructure_charts():
     water_source_fig = px.pie(
         values=water_source_percentages,
         names=water_source_percentages.index,
-        title=f'Water Sources in Colony Ward: {selected_ward}',
+        title=f'Water Sources in Ward: {selected_ward}',
         labels={'label': 'Water Source', 'value': 'Percentage'},
         hole=0.3,
-        color_discrete_sequence=px.colors.sequential.Plasma
+        color_discrete_sequence=professional_colors
     )
     water_source_fig.update_traces(textposition='inside', textinfo='percent+label')
     
@@ -88,10 +92,10 @@ def infrastructure_charts():
     sanitation_fig = px.pie(
         values=sanitation_percentages,
         names=sanitation_percentages.index,
-        title=f'Sanitation Facilities in Colony Ward: {selected_ward}',
+        title=f'Sanitation Facilities in Ward: {selected_ward}',
         labels={'label': 'Sanitation Presence', 'value': 'Percentage'},
         hole=0.3,
-        color_discrete_map={'Yes': '#00ff00', 'No': '#ff0000'}
+        color_discrete_map={'Yes': '#2ca02c', 'No': '#d62728'}
     )
     sanitation_fig.update_traces(textposition='inside', textinfo='percent+label')
     
@@ -100,11 +104,11 @@ def infrastructure_charts():
     treatment_fig = px.bar(
         x=treatment_percentages.index,
         y=treatment_percentages.values,
-        title=f'Water Treatment Methods in Colony Ward: {selected_ward}',
+        title=f'Water Treatment Methods in Ward: {selected_ward}',
         labels={'x': 'Treatment Method', 'y': 'Percentage of Households'},
         text=treatment_percentages.values,
         color=treatment_percentages.values,
-        color_continuous_scale=px.colors.sequential.Viridis
+        color_continuous_scale=blue_scale
     )
     treatment_fig.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
     treatment_fig.update_layout(uniformtext_minsize=8, uniformtext_mode='hide')
@@ -117,15 +121,15 @@ def infrastructure_charts():
     top_treatment_percentage = treatment_percentages.iloc[0]
     
     analysis_text = f"""
-    Colony Infrastructure Analysis for Ward {selected_ward}:
-    1. Total living units analyzed: {total_households}
-    2. Sanitation: {toilets_percentage:.1f}% of units have proper waste management facilities.
-    3. Water Source: The primary water source is {top_water_source} ({top_water_source_percentage:.1f}% of units).
-    4. Water Treatment: {top_treatment_percentage:.1f}% of units use {top_treatment} as their primary water purification method.
-    5. Areas for Colony Improvement:
+    Infrastructure Analysis for Ward {selected_ward}:
+    1. Total households analyzed: {total_households}
+    2. Sanitation: {toilets_percentage:.1f}% of households have toilets.
+    3. Water Source: The primary water source is {top_water_source} ({top_water_source_percentage:.1f}% of households).
+    4. Water Treatment: {top_treatment_percentage:.1f}% of households use {top_treatment} as their primary water treatment method.
+    5. Areas for Improvement:
        - {'Increase sanitation coverage' if toilets_percentage < 90 else 'Maintain high sanitation standards'}
-       - {'Promote safer water sources' if top_water_source not in ['Recycled water', 'Purification plant'] else 'Maintain efficient water sources'}
-       - {'Encourage water treatment' if top_treatment == 'Nil' else 'Promote advanced water purification methods'}
+       - {'Promote safer water sources' if top_water_source not in ['Bore well', 'Open well'] else 'Maintain good water sources'}
+       - {'Encourage water treatment' if top_treatment == 'Nil' else 'Promote advanced water treatment methods'}
     """
     
     return jsonify({
@@ -141,10 +145,10 @@ def agriculture_chart():
     farming_fig = px.scatter(agriculture_df, x='ACRES OF FARMING LAND', y='Crop-1',
                              size='ACRES OF FARMING LAND', color='ORGANIC FARMING',
                              hover_data=['NAME', 'Crop-2', 'FERTILIZER-1', 'PESTICIDES-1'],
-                             title='Space Colony Farming Practices Overview',
-                             labels={'ACRES OF FARMING LAND': 'Hydroponic Farm Size (Units)', 'Crop-1': 'Primary Crop'},
+                             title='Farming Practices Overview',
+                             labels={'ACRES OF FARMING LAND': 'Farm Size (Acres)', 'Crop-1': 'Primary Crop'},
                              height=600,
-                             color_discrete_map={'Yes': '#00ff00', 'No': '#ff0000', 'Partially': '#ffff00'})
+                             color_discrete_map={'Yes': '#2ca02c', 'No': '#d62728', 'Partially': '#ff7f0e'})
     
     total_farms = len(agriculture_df)
     organic_percentage = (agriculture_df['ORGANIC FARMING'] == 'Yes').mean() * 100
@@ -153,12 +157,12 @@ def agriculture_chart():
     top_crop = agriculture_df['Crop-1'].value_counts().index[0]
     
     analysis_text = f"""
-    Space Colony Agricultural Practices Analysis:
-    1. Total hydroponic farms analyzed: {total_farms}
+    Agricultural Practices Analysis:
+    1. Total farms analyzed: {total_farms}
     2. {organic_percentage:.1f}% of farms use fully organic methods, while {partial_organic:.1f}% use partial organic techniques.
-    3. The average hydroponic farm size is {avg_farm_size:.1f} units.
+    3. The average farm size is {avg_farm_size:.1f} acres.
     4. The most common primary crop is {top_crop}.
-    5. There appears to be a correlation between farm size and organic farming practices, which may impact resource use and overall colony health.
+    5. There appears to be a relationship between farm size and organic farming practices, which may impact resource use and overall agricultural health.
     """
     
     return jsonify({
