@@ -5,7 +5,7 @@ import plotly
 import plotly.express as px
 from functools import lru_cache
 
-dashboard_bp = Blueprint('dashboard', __name__)
+dashboard_bp = Blueprint('dashboards', __name__)
 
 # Professional color scheme
 professional_colors = ['#1f77b4', '#aec7e8', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896']
@@ -23,7 +23,7 @@ def load_data():
 
     return death_df, household_df, agriculture_df
 
-@dashboard_bp.route('/dashboard')
+@dashboard_bp.route('/dashboards')
 def dashboard():
     death_df, household_df, _ = load_data()
     wards = sorted(household_df['Ward'].unique())
