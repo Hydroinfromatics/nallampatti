@@ -28,7 +28,7 @@ def dashboard():
     death_df, household_df, _ = load_data()
     wards = sorted(household_df['Ward'].unique())
     age_range = [int(death_df['Age'].min()), int(death_df['Age'].max())]
-    return render_template('dashboard.html', title="Community Dashboard", wards=wards, age_range=age_range)
+    return render_template('dash.html', title="Community Dashboard", wards=wards, age_range=age_range)
 
 @dashboard_bp.route('/mortality_charts')
 def mortality_charts():
