@@ -1,0 +1,179 @@
+Ward,Street,Relationship,Age,Year,Regular_residence,Disease_Type,Reason
+1,Pillaiyarkovil Veethi Thotta paguthigal,Father/ Mother,81,2021,Yes,Natural ageing,Natural ageing
+1,Kothukaraveethi Thotta paguthigal,Father/ Mother,90,2017,Yes,Natural ageing,Natural ageing
+1,Pillaiyarkovil Veethi Thotta paguthigal,Father/ Mother,93,2021,Yes,Natural ageing,Natural ageing
+1,Kothukaraveethi Thotta paguthigal,Father/ Mother,85,2020,Yes,Natural ageing,Natural ageing
+1,Pillaiyarkovil Veethi Thotta paguthigal,Father/ Mother,85,2018,Yes,Natural ageing,Natural ageing
+1,Pillaiyarkovil Veethi Thotta paguthigal,Other relation,90,2012,Yes,Natural ageing,Natural ageing
+2,Kothukara Veethi Thottapaguthigal,Father/ Mother,100,2019,Yes,Natural ageing,Natural ageing
+2,Kothukara Veethi Thottapaguthigal,Father/ Mother,80,2017,Yes,Natural ageing,Natural ageing
+3,Ricemill Puthur Thottapaguthigal,Father/ Mother,95,2019,Yes,Natural ageing,Natural ageing
+3,Ricemill Puthur Thottapaguthigal,Father/ Mother,70,2020,Yes,Heart disease,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Other relation,61,2019,Yes,Heart disease,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Grand Father/ Grand Mother,54,2022,Yes,Heart disease,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Other relation,42,2014,No,Liver diseases,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Son/ Daughter,36,2020,Yes,Other reasons,Other reasons
+3,JJ Nagar,Father/ Mother,85,2016,Yes,Natural ageing,Natural ageing
+4,Pattaththarasiamman Kovil Street,Father/ Mother,93,2016,Yes,Natural ageing,Natural ageing
+4,Pattaththarasiamman Kovil Street,Father/ Mother,50,2018,Yes,Other reasons,Other reasons
+4,Pattaththarasiamman Kovil Street,Father/ Mother,80,2018,Yes,Natural ageing,Natural ageing
+4,Pattaththarasiamman Kovil Street,Father/ Mother,85,2022,Yes,Natural ageing,Natural ageing
+5,Pattatharasiamman kovil street,Other relation,57,2018,No,Natural ageing,Natural ageing
+5,Pattatharasiamman kovil street,Other relation,35,2021,Yes,Heart disease,Non-Communicable Disease
+5,Gandhi Veethi,Father/ Mother,85,2015,No,Natural ageing,Natural ageing
+6,Pillaiyarkovil Veethi,Father/ Mother,85,2020,Yes,Natural ageing,Natural ageing
+6,Pillaiyarkovil Veethi,Father/ Mother,80,2019,Yes,Natural ageing,Natural ageing
+6,Pillaiyarkovil Veethi,Other relation,73,2022,Yes,Other reasons,Other reasons
+6,Pillaiyarkovil Veethi,Father/ Mother,66,2017,Yes,Natural ageing,Natural ageing
+6,Pillaiyarkovil Veethi,Father/ Mother,80,2017,Yes,Natural ageing,Natural ageing
+6,Pillaiyarkovil Veethi,Other relation,70,2014,Yes,Heart disease,Non-Communicable Disease
+7,Nallampatti Mariamman Kovil Veethi,Other relation,31,2010,Yes,Cancer,Non-Communicable Disease
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,80,2019,Yes,Hypertension,Non-Communicable Disease
+7,Nallampatti Koththukkarar Veethi,Father/ Mother,66,2022,Yes,Hypertension,Non-Communicable Disease
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,82,2012,Yes,Natural ageing,Natural ageing
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,84,2021,Yes,Heart disease,Non-Communicable Disease
+8,Durgaiamman Kovil Veethi,Father/ Mother,70,2017,Yes,Natural ageing,Natural ageing
+8,West Puthuthottam,Father/ Mother,67,2012,Yes,Other reasons,Other reasons
+8,Durgaiamman Kovil Veethi,Other relation,45,2019,Yes,Hypertension,Non-Communicable Disease
+8,Old Thasamputhur,Grand Father/ Grand Mother,78,2019,Yes,Cancer,Non-Communicable Disease
+8,Durgaiamman Kovil Veethi,Grand Father/ Grand Mother,65,2018,Yes,Kidney disease,Non-Communicable Disease
+8,Pappangkadu Veeramathi Veethi,Other relation,75,2013,Yes,Liver diseases,Non-Communicable Disease
+8,Pappangkadu Veeramathi Veethi,Father/ Mother,70,2012,Yes,Natural ageing,Natural ageing
+8,Durgaiamman Kovil Veethi,Other relation,90,2021,Yes,Natural ageing,Natural ageing
+9,Masammavur Pomman Veethi,Other relation,51,2021,Yes,Heart disease,Non-Communicable Disease
+9,Thasamputhur Kotthukarar Veethi,Grand Father/ Grand Mother,80,2018,Yes,Natural ageing,Natural ageing
+9,Thasamputhur Kotthukarar Veethi,Father/ Mother,94,2021,Yes,Natural ageing,Natural ageing
+9,Thasamputhur Kotthukarar Veethi,Father/ Mother,85,2017,Yes,Natural ageing,Natural ageing
+9,Thasaiyar Veethi,Other relation,38,2006,Yes,Heart disease,Non-Communicable Disease
+9,Aathikkattur Kamarajar Veethi,Other relation,20,2003,Yes,Other reasons,Other reasons
+10,Naduvalasu Kothukarar Veethi,Other relation,107,2022,Yes,Natural ageing,Natural ageing
+10,Naduvalasu Kothukarar Veethi,Father/ Mother,85,2022,Yes,Natural ageing,Natural ageing
+10,Naduvalasu Kothukarar Veethi,Grand Father/ Grand Mother,62,2021,Yes,Hypertension,Non-Communicable Disease
+10,Naduvalasu Kothukarar Veethi,Father/ Mother,65,2019,Yes,Other reasons,Other reasons
+11,Ricemill Puthur Colony,Son/ Daughter,49,2021,Yes,Other reasons,Other reasons
+12,Naduvalasu Cashier Veethi,Father/ Mother,60,2021,Yes,Heart disease,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Other relation,70,2018,Yes,Natural ageing,Natural ageing
+12,Naduvalasu Cashier Veethi,Other relation,60,2019,Yes,Cancer,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Other relation,80,2018,Yes,Paralysis,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Father/ Mother,65,2022,Yes,Diabetes,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Other relation,60,2019,Yes,Heart disease,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Other relation,63,2017,Yes,Heart disease,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Father/ Mother,75,2021,Yes,Other reasons,Other reasons
+12,Naduvalasu Nehru Veethi,Other relation,73,2021,Yes,Diabetes,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Other relation,75,2019,Yes,Natural ageing,Natural ageing
+12,Naduvalasu Cashier Veethi,Father/ Mother,64,2014,Yes,Diabetes,Non-Communicable Disease
+1,Kothukaraveethi Thotta paguthigal,Father/ Mother,82,2022,Yes,Natural ageing,Natural ageing
+1,Kothukaraveethi Thotta paguthigal,Other relation,49,2018,Yes,Other reasons,Other reasons
+2,Kothukara Veethi Thottapaguthigal,Father/ Mother,62,2014,Yes,Diabetes,Non-Communicable Disease
+2,Kothukara Veethi Thottapaguthigal,Other relation,83,2020,Yes,Diabetes,Non-Communicable Disease
+2,JJ Nagar Thottapaguthigal,Other relation,70,2022,Yes,Natural ageing,Natural ageing
+2,Kothukara Veethi Thottapaguthigal,Father/ Mother,70,2020,Yes,Natural ageing,Natural ageing
+3,Ricemill Puthur Thottapaguthigal,Father/ Mother,64,2014,Yes,Diabetes,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Other relation,50,2021,Yes,Heart disease,Non-Communicable Disease
+4,Pattaththarasiamman Kovil Street,Other relation,45,2019,Yes,Other reasons,Other reasons
+4,Pattaththarasiamman Kovil Street,Father/ Mother,82,2022,Yes,Natural ageing,Natural ageing
+4,Pattaththarasiamman Kovil Street,Father/ Mother,81,2022,Yes,Natural ageing,Natural ageing
+4,Pattaththarasiamman Kovil Street,Other relation,60,2012,Yes,Cancer,Non-Communicable Disease
+5,Pattatharasiamman kovil street,Other relation,53,2019,Yes,Heart disease,Non-Communicable Disease
+6,Pillaiyarkovil Veethi,Father/ Mother,43,2019,Yes,Liver diseases,Non-Communicable Disease
+6,Pillaiyarkovil Veethi,Son/ Daughter,52,2022,Yes,Heart disease,Non-Communicable Disease
+6,Pillaiyarkovil Veethi,Father/ Mother,62,2010,Yes,Other reasons,Other reasons
+6,Pillaiyarkovil Veethi,Father/ Mother,75,2019,Yes,Cancer,Non-Communicable Disease
+9,Masammavur Pomman Veethi,Father/ Mother,80,2020,Yes,Cancer,Non-Communicable Disease
+10,Annamaar Veethi Main Road,Father/ Mother,72,2018,Yes,Diabetes,Non-Communicable Disease
+11,Ricemill Puthur Colony,Father/ Mother,84,2022,Yes,Natural ageing,Natural ageing
+12,Manakkattu Puthur Pillaiyarkovil veethi,Father/ Mother,50,2017,No,Heart disease,Non-Communicable Disease
+12,Manakkattu Puthur Pillaiyarkovil veethi,Other relation,64,2018,Yes,chronic respiratory disease,Non-Communicable Disease
+1,Kothukaraveethi Thotta paguthigal,Other relation,59,2018,Yes,Heart disease,Non-Communicable Disease
+1,Pillaiyarkovil Veethi Thotta paguthigal,Other relation,55,2019,Yes,Kidney disease,Non-Communicable Disease
+1,Kothukaraveethi Thotta paguthigal,Father/ Mother,72,2022,Yes,Heart disease,Non-Communicable Disease
+1,Kothukaraveethi Thotta paguthigal,Father/ Mother,72,2022,Yes,Natural ageing,Natural ageing
+1,Pillaiyarkovil Veethi Thotta paguthigal,Other relation,70,2017,Yes,Cancer,Non-Communicable Disease
+1,Kothukaraveethi Thotta paguthigal,Grand Father/ Grand Mother,85,2015,Yes,Natural ageing,Natural ageing
+1,Pillaiyarkovil Veethi Thotta paguthigal,Father/ Mother,84,2018,Yes,Natural ageing,Natural ageing
+2,Kothukara Veethi Thottapaguthigal,Father/ Mother,81,2020,Yes,Natural ageing,Natural ageing
+2,Kothukara Veethi Thottapaguthigal,Other relation,78,2019,Yes,Natural ageing,Natural ageing
+2,Kothukara Veethi Thottapaguthigal,Other relation,45,2007,Yes,Heart disease,Non-Communicable Disease
+2,Kothukara Veethi Thottapaguthigal,Other relation,80,2016,Yes,Natural ageing,Natural ageing
+2,Kothukara Veethi Thottapaguthigal,Other relation,85,2017,Yes,Natural ageing,Natural ageing
+2,Kothukara Veethi Thottapaguthigal,Father/ Mother,52,2017,Yes,Diabetes,Non-Communicable Disease
+2,JJ Nagar Thottapaguthigal,Father/ Mother,96,2020,Yes,Natural ageing,Natural ageing
+3,Ricemill Puthur Thottapaguthigal,Other relation,72,2017,Yes,Cancer,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Father/ Mother,85,2016,Yes,Natural ageing,Natural ageing
+3,Ricemill Puthur Thottapaguthigal,Grand Father/ Grand Mother,100,2020,Yes,Natural ageing,Natural ageing
+3,Ricemill Puthur Thottapaguthigal,Other relation,40,2016,Yes,Kidney disease,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Father/ Mother,85,2020,Yes,Natural ageing,Natural ageing
+3,Ricemill Puthur Thottapaguthigal,Father/ Mother,55,2015,Yes,chronic respiratory disease,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Father/ Mother,75,2021,Yes,Other reasons,Other reasons
+4,Pattaththarasiamman Kovil Street,Other relation,74,2020,Yes,Other reasons,Other reasons
+4,Pattaththarasiamman Kovil Street,Father/ Mother,74,2022,Yes,Natural ageing,Natural ageing
+5,Pattatharasiamman kovil street,Father/ Mother,70,2015,Yes,Natural ageing,Natural ageing
+5,Gandhi Veethi,Other relation,70,2022,Yes,Natural ageing,Natural ageing
+5,Pattatharasiamman kovil street,Father/ Mother,49,2020,Yes,Heart disease,Non-Communicable Disease
+5,Gandhi Veethi,Father/ Mother,45,2019,Yes,Other reasons,Other reasons
+6,Pillaiyarkovil Veethi,Other relation,65,2021,Yes,Heart disease,Non-Communicable Disease
+6,Pillaiyarkovil Veethi,Other relation,65,2021,Yes,Heart disease,Non-Communicable Disease
+6,Pillaiyarkovil Veethi,Other relation,44,2019,Yes,Other reasons,Other reasons
+6,Pillaiyarkovil Veethi,Other relation,55,2013,Yes,Cancer,Non-Communicable Disease
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,82,2018,Yes,Natural ageing,Natural ageing
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,75,2021,Yes,Other reasons,Other reasons
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,85,2020,Yes,Natural ageing,Natural ageing
+7,Nallampatti Koththukkarar Veethi,Son/ Daughter,21,2020,Yes,Other reasons,Other reasons
+7,Nallampatti Koththukkarar Veethi,Father/ Mother,89,2017,Yes,Heart disease,Non-Communicable Disease
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,62,2018,Yes,Heart disease,Non-Communicable Disease
+7,Nallampatti Koththukkarar Veethi,Father/ Mother,78,2016,Yes,Natural ageing,Natural ageing
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,95,2018,Yes,Natural ageing,Natural ageing
+8,West Puthuthottam,Grand Father/ Grand Mother,82,2021,Yes,Natural ageing,Natural ageing
+8,Old Thasamputhur,Father/ Mother,63,2020,Yes,Other reasons,Other reasons
+8,Old Thasamputhur,Other relation,70,2012,Yes,Natural ageing,Natural ageing
+8,Pappangkadu Veeramathi Veethi,Father/ Mother,87,2021,Yes,Heart disease,Non-Communicable Disease
+8,Old Thasamputhur,Other relation,24,2012,No,Other reasons,Other reasons
+8,Durgaiamman Kovil Veethi,Father/ Mother,90,2018,Yes,Natural ageing,Natural ageing
+8,Pappangkadu Veeramathi Veethi,Father/ Mother,80,2017,Yes,Natural ageing,Natural ageing
+8,Durgaiamman Kovil Veethi,Other relation,76,2015,Yes,Natural ageing,Natural ageing
+8,Pappangkadu Veeramathi Veethi,Father/ Mother,76,2012,No,Natural ageing,Natural ageing
+9,Aathikkattur Kamarajar Veethi,Father/ Mother,70,2019,Yes,Natural ageing,Natural ageing
+9,Masammavur Pomman Veethi,Father/ Mother,70,2020,Yes,Natural ageing,Natural ageing
+9,Thasaiyar Veethi,Other relation,70,2020,Yes,Natural ageing,Natural ageing
+9,Masammavur Pomman Veethi,Father/ Mother,98,2009,Yes,Other reasons,Other reasons
+9,Aathikkattur Kamarajar Veethi,Father/ Mother,70,2022,Yes,Natural ageing,Natural ageing
+9,Thasaiyar Veethi,Other relation,31,2022,Yes,Other reasons,Other reasons
+10,Naduvalasu Kothukarar Veethi,Other relation,75,2019,Yes,Cancer,Non-Communicable Disease
+10,Naduvalasu Kothukarar Veethi,Father/ Mother,79,2011,Yes,Natural ageing,Natural ageing
+10,Naduvalasu Kothukarar Veethi,Son/ Daughter,12,2017,No,Other reasons,Other reasons
+10,Naduvalasu Kothukarar Veethi,Other relation,45,2019,No,Other reasons,Other reasons
+12,Naduvalasu Cashier Veethi,Father/ Mother,90,2018,Yes,Natural ageing,Natural ageing
+12,Ricemill Puthur Thottapaguthigal,Father/ Mother,65,2010,Yes,Hypertension,Non-Communicable Disease
+12,Manakkattu Puthur Pillaiyarkovil veethi,Other relation,70,2016,Yes,Heart disease,Non-Communicable Disease
+12,Oonjakadu,Other relation,75,2015,Yes,Heart disease,Non-Communicable Disease
+12,Ricemill Puthur Thottapaguthigal,Father/ Mother,80,2020,Yes,Natural ageing,Natural ageing
+12,Ricemill Puthur Thottapaguthigal,Father/ Mother,75,2016,Yes,Natural ageing,Natural ageing
+12,Naduvalasu Nehru Veethi,Father/ Mother,82,2021,Yes,Natural ageing,Natural ageing
+12,Naduvalasu LIC Veethi,Father/ Mother,50,2019,Yes,Paralysis,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Father/ Mother,65,2018,Yes,Cancer,Non-Communicable Disease
+12,Naduvalasu LIC Veethi,Father/ Mother,85,2020,Yes,Natural ageing,Natural ageing
+12,Manakkattu Puthur Pillaiyarkovil veethi,Other relation,60,2020,Yes,Liver diseases,Non-Communicable Disease
+7,Nallampatti Mariamman Kovil Veethi,Father/ Mother,65,2020,Yes,Other reasons,Other reasons
+11,Ricemill Puthur Colony,Son/ Daughter,42,2020,Yes,Heart disease,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Son/ Daughter,60,2016,Yes,Natural ageing,Natural ageing
+12,Naduvalasu Cashier Veethi,Other relation,61,2021,Yes,Hormone issues,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Other relation,70,2022,Yes,Diabetes,Non-Communicable Disease
+5,Pattatharasiamman kovil street,Other relation,40,2006,Yes,Other reasons,Other reasons
+6,Pillaiyarkovil Veethi,Father/ Mother,45,2009,Yes,Cancer,Non-Communicable Disease
+2,Kothukara Veethi Thottapaguthigal,Father/ Mother,64,2021,Yes,Other reasons,Other reasons
+3,Ricemill Puthur Thottapaguthigal,Other relation,50,2018,Yes,Natural ageing,Natural ageing
+5,Pattatharasiamman kovil street,Father/ Mother,75,2014,Yes,Natural ageing,Natural ageing
+7,Nallampatti Koththukkarar Veethi,Father/ Mother,85,2017,Yes,Heart disease,Non-Communicable Disease
+7,Nallampatti Koththukkarar Veethi,Father/ Mother,70,2021,Yes,Natural ageing,Natural ageing
+9,Masammavur Pomman Veethi,Father/ Mother,97,2010,Yes,Other reasons,Other reasons
+7,Nallampatti Mariamman Kovil Veethi,Other relation,75,2020,Yes,Heart disease,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Other relation,60,2016,Yes,Other reasons,Other reasons
+12,Naduvalasu Cashier Veethi,Other relation,61,2021,Yes,Hormone issues,Non-Communicable Disease
+12,Naduvalasu Cashier Veethi,Other relation,62,2015,Yes,Heart disease,Non-Communicable Disease
+5,Pattatharasiamman kovil street,Other relation,40,2006,Yes,Other reasons,Other reasons
+6,Pillaiyarkovil Veethi,Other relation,62,2010,No,Other reasons,Other reasons
+2,Kothukara Veethi Thottapaguthigal,Father/ Mother,52,2017,Yes,Kidney disease,Non-Communicable Disease
+3,Ricemill Puthur Thottapaguthigal,Other relation,50,2018,Yes,Natural ageing,Natural ageing
+7,Nallampatti Koththukkarar Veethi,Father/ Mother,85,2017,Yes,Heart disease,Non-Communicable Disease
+8,Old Thasamputhur,Other relation,64,2018,Yes,Other reasons,Other reasons
+9,Masammavur Pomman Veethi,Father/ Mother,97,2015,Yes,Other reasons,Other reasons
