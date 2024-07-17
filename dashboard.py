@@ -8,7 +8,7 @@ from functools import lru_cache
 dashboard_bp = Blueprint('dashboards', __name__)
 
 # Professional color scheme
-professional_colors = ['#1f77b4', '#aec7e8', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896']
+professional_colors = ['#1f77b4','#ff7f0e', '#aec7e8',  '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896']
 blue_scale = ['#e6f2ff', '#bdd7e7', '#6baed6', '#3182bd', '#08519c']
 
 # Data loading and preprocessing
