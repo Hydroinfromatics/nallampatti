@@ -1,10 +1,8 @@
-from flask import Flask, Blueprint, render_template_string, jsonify, request
+from flask import Blueprint, render_template_string, jsonify, request
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objs as go
 import json
-
-app = Flask(__name__)
 
 insights_bp = Blueprint('insights', __name__, url_prefix='/insights')
 
@@ -110,7 +108,7 @@ html_template = '''
     <script>
         function updateHouseholdChart() {
             $.ajax({
-                url: '{{ url_for("dashboard.update_household_chart") }}',
+                url: '{{ url_for("insights.update_household_chart") }}',
                 method: 'POST',
                 contentType: 'application/json',
                 data: JSON.stringify({selected_category: $('#household-dropdown').val()}),
@@ -123,7 +121,7 @@ html_template = '''
 
         function updateGeneralChart() {
             $.ajax({
-                url: '{{ url_for("dashboard.update_general_chart") }}',
+                url: '{{ url_for("insights.update_general_chart") }}',
                 method: 'POST',
                 contentType: 'application/json',
                 data: JSON.stringify({selected_column: $('#general-dropdown').val()}),
