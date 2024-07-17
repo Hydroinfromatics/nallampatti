@@ -1,0 +1,580 @@
+Latitude,Longitude,Ward,Street Name,Source_of_drinking,Processed_for_Drinking,Grey Water Discharge,Presence of Toilet
+11.351527,77.53291,1,Kothukaraveethi Thotta paguthigal,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.356367,77.535168,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.356803,77.531317,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Nil,Directly to ground,Yes
+11.351306,77.532889,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.353855,77.531454,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.351507,77.537042,1,Kothukaraveethi Thotta paguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.353696,77.531101,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Nil,Directly to ground,Yes
+11.352909,77.529159,1,Kothukaraveethi Thotta paguthigal,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.353606,77.530993,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Boiling,Directly to ground,Yes
+11.343465,77.544208,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Boiling,Directly to soakpit/ sewage canal,Yes
+11.343465,77.544208,1,Kothukaraveethi Thotta paguthigal,Open well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.358693,77.534764,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Boiling,Directly to ground,Yes
+11.349904,77.536379,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.356566,77.534025,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Directly to ground,Yes
+11.349707,77.536511,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Boiling,Directly to ground,Yes
+11.350743,77.53676,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Directly to ground,Yes
+11.358306,77.525217,1,Kothukaraveethi Thotta paguthigal,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.351713,77.539727,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Directly to ground,Yes
+11.350403,77.531398,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Directly to ground,Yes
+11.34697,77.536684,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.359651,77.541872,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.360083,77.537911,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.343465,77.544208,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Directly to ground,Yes
+11.360593,77.537397,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Directly to ground,Yes
+11.344038,77.541342,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.354427,77.540092,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.355412,77.539709,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.352932,77.543142,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.344038,77.541342,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.352197,77.540185,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.348356,77.561046,2,Kothukara Veethi Thottapaguthigal,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.342807,77.544748,3,Ricemill Puthur Thottapaguthigal,Bore well,Personal RO,Directly to ground,Yes
+11.346476,77.549582,3,JJ Nagar,Panchyat water - Piped,Personal RO,Farming/ Gardening,Yes
+11.346095,77.540625,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.346095,77.540625,3,JJ Nagar,Bore well,Boiling,Directly to ground,Yes
+11.342807,77.544748,3,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Directly to ground,Yes
+11.342807,77.544748,3,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.346095,77.540625,3,JJ Nagar,Bore well,Personal RO,Directly to ground,Yes
+11.345026,77.550038,3,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.345026,77.550038,3,Ricemill Puthur Thottapaguthigal,Open well,Boiling,Farming/ Gardening,Yes
+11.343103,77.546857,3,Ricemill Puthur Thottapaguthigal,Open well,Personal RO,Farming/ Gardening,Yes
+11.343103,77.546857,3,Ricemill Puthur Thottapaguthigal,Open well,Boiling,Farming/ Gardening,Yes
+11.343636,77.545883,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.339613,77.548861,3,Ricemill Puthur Thottapaguthigal,Panchayat water - Overhead tank,Nil,Farming/ Gardening,Yes
+11.346095,77.540625,3,JJ Nagar,Panchayat water - Overhead tank,Boiling,Directly to ground,Yes
+11.346095,77.540625,3,JJ Nagar,Panchayat water - Overhead tank,Nil,Directly to ground,Yes
+11.342525,77.544407,3,Ricemill Puthur Thottapaguthigal,Panchayat water - Overhead tank,Boiling,Directly to ground,Yes
+11.342525,77.544407,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.345177,77.551732,3,JJ Nagar,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.346597,77.549624,3,JJ Nagar,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.346848,77.553157,3,JJ Nagar,Panchyat water - Piped,Boiling,Farming/ Gardening,Yes
+11.346095,77.540625,3,JJ Nagar,Panchayat water - Overhead tank,Nil,Directly to ground,Yes
+11.342525,77.544407,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.341694,77.538352,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.341419,77.537865,4,Pattaththarasiamman Kovil Street,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.359916,77.537582,4,Pattaththarasiamman Kovil Street,Open well,Nil,Directly to ground,Yes
+11.359916,77.537582,4,Pattaththarasiamman Kovil Street,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,No
+11.359916,77.537582,4,Pattaththarasiamman Kovil Street,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,No
+11.341338,77.537967,4,Pattaththarasiamman Kovil Street,Panchayat water - Syntex tank,Personal RO,Directly to soakpit/ sewage canal,No
+11.341443,77.538388,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342211,77.538309,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Personal RO,Farming/ Gardening,No
+11.342211,77.538309,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.341393,77.538138,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.34206,77.53786,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to ground,No
+11.341446,77.538372,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.341463,77.53805,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.341989,77.53789,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to ground,No
+11.341453,77.537652,5,Pattatharasiamman kovil street,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341453,77.537652,5,Pattatharasiamman kovil street,Open well,Boiling,Directly to soakpit/ sewage canal,No
+11.341146,77.537524,5,Pattatharasiamman kovil street,Open well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.341441,77.537563,5,Pattatharasiamman kovil street,Open well,Boiling,Directly to soakpit/ sewage canal,Yes
+11.340822,77.536868,5,Gandhi Veethi,Open well,Boiling,Directly to ground,Yes
+11.340863,77.535674,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.341244,77.536883,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Farming/ Gardening,Yes
+11.341453,77.537652,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.341299,77.536828,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.341299,77.536828,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.341342,77.536768,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.34154,77.536873,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.341467,77.537078,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.343394,77.536996,6,Pillaiyarkovil Veethi,Bore well,Nil,Directly to ground,Yes
+11.343394,77.536996,6,Pillaiyarkovil Veethi,Bore well,Nil,Directly to ground,Yes
+11.340535,77.534655,6,Pillaiyarkovil Veethi,Bore well,Nil,Directly to ground,Yes
+11.340535,77.534655,6,Pillaiyarkovil Veethi,Open well,Nil,Farming/ Gardening,Yes
+11.342173,77.537148,6,Pillaiyarkovil Veethi,Panchayat water - Overhead tank,Boiling,Directly to ground,Yes
+11.342533,77.537089,6,Pillaiyarkovil Veethi,Panchayat water - Overhead tank,Personal RO,Directly to ground,Yes
+11.342533,77.5370789,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.344042,77.537025,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.342897,77.536976,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.343804,77.537618,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.342435,77.537169,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.341369,77.536857,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Personal RO,Farming/ Gardening,Yes
+11.342601,77.536866,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.343465,77.544208,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.343173,77.537673,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.343763,77.537499,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.342917,77.536097,7,Nallampatti Mariamman Kovil Veethi,Bore well,Boiling,Directly to ground,Yes
+11.342676,77.536478,7,Nallampatti Mariamman Kovil Veethi,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.34306,77.536213,7,Nallampatti Mariamman Kovil Veethi,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.343024,77.536309,7,Nallampatti Mariamman Kovil Veethi,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.343095,77.536966,7,Nallampatti Koththukkarar Veethi,Panchayat water - Syntex tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.343402,77.536459,7,Nallampatti Mariamman Kovil Veethi,Panchayat water - Syntex tank,Boiling,Directly to soakpit/ sewage canal,Yes
+11.34269,77.536323,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.344914,77.5374,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.341967,77.5417,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.343708,77.536749,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344345,77.536242,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,No
+11.34406,77.536919,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.34406,77.536919,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344104,77.518408,8,West Puthuthottam,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341478,77.530234,8,Durgaiamman Kovil Veethi,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341451,77.533677,8,Durgaiamman Kovil Veethi,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.343505,77.52895,8,West Puthuthottam,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341632,77.533559,8,Durgaiamman Kovil Veethi,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.343162,77.528899,8,Old Thasamputhur,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.34122,77.536033,8,Durgaiamman Kovil Veethi,Canned water,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.342751,77.529144,8,Old Thasamputhur,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.34172,77.53475,8,Durgaiamman Kovil Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341161,77.53095,8,Durgaiamman Kovil Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.342323,77.535928,8,Durgaiamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.340789,77.533383,8,Pappangkadu Veeramathi Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.341272,77.533695,8,Pappangkadu Veeramathi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.340366,77.532475,8,Pappangkadu Veeramathi Veethi,Open well,Boiling,Directly to soakpit/ sewage canal,Yes
+11.342351,77.535794,8,Durgaiamman Kovil Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.342252,77.528983,8,Old Thasamputhur,Bore well,Nil,Farming/ Gardening,Yes
+11.33802,77.520656,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.344116,77.522504,9,Aathikkattur Kamarajar Veethi,Bore well,Nil,Farming/ Gardening,Yes
+11.339571,77.526292,9,Masammavur Pomman Veethi,Bore well,Nil,Farming/ Gardening,Yes
+11.343802,77.519483,9,Masammavur Pomman Veethi,Bore well,Boiling,Farming/ Gardening,Yes
+11.339373,77.526139,9,Thasamputhur Kotthukarar Veethi,Bore well,Nil,Farming/ Gardening,Yes
+11.339373,77.526139,9,Thasamputhur Kotthukarar Veethi,Open well,Nil,Farming/ Gardening,Yes
+11.339184,77.525693,9,Thasaiyar Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.339373,77.526139,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.339594,77.520073,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.338214,77.525841,9,Thasaiyar Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.33998,77.527725,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,No
+11.339466,77.526506,9,Thasaiyar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.340414,77.525965,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.337118,77.519838,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.339648,77.526191,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.339455,77.519953,9,Masammavur Pomman Veethi,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.339919,77.526292,9,Thasaiyar Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.33998,77.527725,9,Aathikkattur Kamarajar Veethi,Bore well,Nil,Farming/ Gardening,Yes
+11.348143,77.523425,9,Aathikkattur Kamarajar Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.342958,77.524247,9,Aathikkattur Kamarajar Veethi,Open well,Nil,Directly to ground,Yes
+11.338346,77.520848,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.337893,77.520419,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.337322,77.5371,10,Naduvalasu Kothukarar Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.340866,77.535434,10,Annamaar Veethi Main Road,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.341615,77.538387,10,Naduvalasu Kothukarar Veethi,Bore well,Personal RO,Farming/ Gardening,Yes
+11.341026,77.536488,10,Annamaar Veethi Main Road,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341421,77.537042,10,Annamaar Veethi Main Road,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.34026,77.534601,10,Annamaar Veethi Main Road,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.341615,77.538387,10,Naduvalasu Kothukarar Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Panchayat water - Syntex tank,Boiling,Directly to soakpit/ sewage canal,Yes
+11.340781,77.536997,10,Annamaar Veethi Main Road,Panchayat water - Syntex tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.331958,77.543491,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.341421,77.537042,10,Annamaar Veethi Main Road,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.335042,77.542417,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.346408,77.531667,10,Annamaar Veethi Main Road,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.336638,77.537415,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.33715,77.537749,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.340456,77.536895,10,Annamaar Veethi Main Road,Panchayat water - Syntex tank,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.336927,77.53757,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.332986,77.543133,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.340234,77.5366,10,Annamaar Veethi Main Road,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.339835,77.540625,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.340353,77.54499,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.340353,77.54499,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.34048,77.543684,11,Ricemill Puthur Colony,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.342059,77.54385,11,Ricemill Puthur Colony,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,No
+11.340497,77.544661,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.340652,77.543764,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.339835,77.540625,11,Ricemill Puthur Colony,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.340717,77.544895,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.340663,77.544686,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.342609,77.543985,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.340054,77.544748,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.34011,77.544346,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.342422,77.544208,11,Ricemill Puthur Colony,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,No
+11.342422,77.544208,11,Ricemill Puthur Colony,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.337366,77.543194,12,Oonjakadu,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.339835,77.540625,12,Naduvalasu Cashier Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.336512,77.553187,12,Manakkattu Puthur Pillaiyarkovil veethi,Bore well,Boiling,Directly to ground,Yes
+11.335253,77.55036,12,Manakkattu Puthur Pillaiyarkovil veethi,Bore well,Nil,Directly to ground,Yes
+11.337304,77.543155,12,Naduvalasu Cashier Veethi,Bore well,Nil,Directly to ground,Yes
+11.337304,77.543155,12,Naduvalasu Cashier Veethi,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.336381,77.537623,12,Naduvalasu Cashier Veethi,Panchayat water - Overhead tank,Boiling,Farming/ Gardening,Yes
+11.335993,77.537225,12,Naduvalasu Cashier Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.335696,77.537057,12,Naduvalasu Cashier Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.335331,77.53762,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.336116,77.537741,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.336076,77.537179,12,Naduvalasu LIC Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.336099,77.537835,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.335593,77.537432,12,Naduvalasu LIC Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.335593,77.537289,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.335754,77.537769,12,Naduvalasu Nehru Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.333694,77.53525,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.335693,77.537473,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.335693,77.537473,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.336156,77.537683,12,Naduvalasu Nehru Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.336029,77.537326,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.337306,77.543156,12,Naduvalasu Cashier Veethi,Bore well,Nil,Directly to ground,Yes
+11.356172,77.531663,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.346263,77.544566,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.343465,77.544208,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Directly to ground,Yes
+11.349982,77.539177,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,No
+11.349982,77.539177,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,No
+11.353605,77.529159,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.35359,77.5288,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.347415,77.554346,2,JJ Nagar Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.343843,77.544924,2,Kothukara Veethi Thottapaguthigal,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342435,77.543069,3,Ricemill Puthur Thottapaguthigal,Panchayat water - Overhead tank,Nil,Farming/ Gardening,No
+11.332306,77.543491,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.34649,77.549406,3,JJ Nagar,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.342435,77.543069,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.341422,77.53842,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.34159,77.538387,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.34155,77.538476,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to ground,No
+11.342012,77.5383,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.341914,77.537893,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to ground,No
+11.342059,77.54385,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342143,77.538038,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to ground,No
+11.34252,77.537877,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342147,77.537758,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342532,77.538097,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.341411,77.537962,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to ground,No
+11.341695,77.538131,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.341897,77.53655,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.351507,77.537042,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to ground,No
+11.343465,77.544208,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.34168,77.537613,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to ground,No
+11.351507,77.537042,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to ground,No
+11.343465,77.544208,5,Pattatharasiamman kovil street,Panchyat water - Piped,Nil,Directly to ground,No
+11.343465,77.544208,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.343465,77.544208,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.342147,77.537758,5,Pattatharasiamman kovil street,Bore well,Boiling,Directly to soakpit/ sewage canal,Yes
+11.343419,77.537001,6,Pillaiyarkovil Veethi,Bore well,Boiling,Directly to ground,Yes
+11.343281,77.537024,6,Pillaiyarkovil Veethi,Bore well,Boiling,Directly to ground,Yes
+11.34224,77.537117,6,Pillaiyarkovil Veethi,Bore well,Boiling,Directly to ground,Yes
+11.346476,77.549582,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.343419,77.537001,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.343281,77.537024,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.342482,77.5369,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342447,77.536944,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.343651,77.537053,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.343149,77.537065,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.344306,77.536576,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.343723,77.53639,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.344318,77.536911,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.340404,77.529517,8,Old Thasamputhur,Bore well,Nil,Farming/ Gardening,Yes
+11.341161,77.53095,8,Old Thasamputhur,Bore well,Nil,Farming/ Gardening,Yes
+11.341115,77.529875,8,Pappangkadu Veeramathi Veethi,Open well,Nil,Directly to ground,No
+11.342073,77.527144,8,West Puthuthottam,Open well,Nil,Farming/ Gardening,Yes
+11.341115,77.529875,8,Pappangkadu Veeramathi Veethi,Open well,Nil,Directly to ground,No
+11.341161,77.53095,8,Pappangkadu Veeramathi Veethi,Open well,Boiling,Directly to ground,No
+11.341746,77.533566,8,Pappangkadu Veeramathi Veethi,Open well,Nil,Directly to ground,No
+11.342205,77.535989,8,Durgaiamman Kovil Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,No
+11.341699,77.533449,8,Pappangkadu Veeramathi Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.341035,77.533678,8,Durgaiamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.341475,77.533537,8,Pappangkadu Veeramathi Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.341727,77.534455,8,Durgaiamman Kovil Veethi,Open well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.343847,77.52356,9,Aathikkattur Kamarajar Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.352737,77.516975,9,Masammavur Pomman Veethi,Open well,Nil,Farming/ Gardening,No
+11.339476,77.526451,9,Thasamputhur Kotthukarar Veethi,Open well,Personal RO,Directly to ground,Yes
+11.339476,77.526451,9,Thasamputhur Kotthukarar Veethi,Panchayat water - Overhead tank,Nil,Directly to ground,Yes
+11.338861,77.526293,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.339476,77.526451,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.334138,77.513032,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,No
+11.341761,77.520558,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.340543,77.526188,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.34044,77.525257,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.332991,77.518766,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.341478,77.530234,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.343381,77.523674,9,Aathikkattur Kamarajar Veethi,Bore well,Nil,Directly to ground,Yes
+11.337213,77.519516,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.337304,77.519467,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342757,77.51918,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.339347,77.520713,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,No
+11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Open well,Boiling,Directly to ground,No
+11.335042,77.542417,10,Naduvalasu Kothukarar Veethi,Open well,Nil,Directly to ground,Yes
+11.340941,77.53687,10,Annamaar Veethi Main Road,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.340274,77.542775,10,Annamaar Veethi Main Road,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Panchayat water - Syntex tank,Boiling,Directly to soakpit/ sewage canal,Yes
+11.336705,77.540625,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.336494,77.54385,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.340991,77.544314,11,Ricemill Puthur Colony,Panchayat water - Overhead tank,Nil,Directly to ground,No
+11.343465,77.544208,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.339835,77.540625,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,No
+11.341067,77.544816,11,Ricemill Puthur Colony,Panchyat water - Piped,Boiling,Directly to ground,No
+11.337931,77.544924,11,Ricemill Puthur Colony,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,No
+11.341257,77.544525,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.336489,77.537704,12,Naduvalasu Cashier Veethi,Bore well,Nil,Farming/ Gardening,Yes
+11.328777,77.525934,12,Manakkattu Puthur Pillaiyarkovil veethi,Bore well,Nil,Farming/ Gardening,No
+11.345536,77.54385,12,Ricemill Puthur Thottapaguthigal,Open well,Boiling,Farming/ Gardening,Yes
+11.336489,77.537704,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.325656,77.550657,12,Manakkattu Puthur Pillaiyarkovil veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.332986,77.543133,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.33622,77.537484,12,Naduvalasu Nehru Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.33622,77.537484,12,Ricemill Puthur Thottapaguthigal,Bore well,Boiling,Directly to soakpit/ sewage canal,Yes
+11.352378,77.539822,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.351507,77.537042,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.355676,77.5288,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Boiling,Directly to soakpit/ sewage canal,No
+11.353605,77.529159,1,Kothukaraveethi Thotta paguthigal,Bore well,Nil,Directly to soakpit/ sewage canal,No
+11.355367,77.531452,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Nil,Directly to ground,Yes
+11.351507,77.537042,1,Pillaiyarkovil Veethi Thotta paguthigal,Bore well,Boiling,Farming/ Gardening,Yes
+11.353575,77.53091,1,Pillaiyarkovil Veethi Thotta paguthigal,Canned water,Nil,Directly to ground,Yes
+11.349613,77.536541,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Directly to ground,Yes
+11.341161,77.53095,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.351507,77.537042,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.350193,77.536488,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.352674,77.53957,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.344038,77.541342,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Boiling,Directly to soakpit/ sewage canal,Yes
+11.350153,77.532963,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Directly to soakpit/ sewage canal,No
+11.353098,77.532373,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.357139,77.534437,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Directly to ground,Yes
+11.36785,77.5288,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341719,77.527725,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.353605,77.529159,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.332639,77.543133,1,Kothukaraveethi Thotta paguthigal,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.350859,77.538398,1,Pillaiyarkovil Veethi Thotta paguthigal,Panchayat water - Syntex tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.336796,77.542775,1,Pillaiyarkovil Veethi Thotta paguthigal,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.354868,77.531445,1,Kothukaraveethi Thotta paguthigal,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.360638,77.53095,1,Pillaiyarkovil Veethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.3529,77.539515,1,Kothukaraveethi Thotta paguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.359652,77.541873,2,Kothukara Veethi Thottapaguthigal,Panchyat water - Piped,Boiling,Directly to ground,No
+11.345763,77.5505,2,JJ Nagar Thottapaguthigal,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.349438,77.545641,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.347392,77.554344,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.350681,77.538621,2,Kothukara Veethi Thottapaguthigal,Bore well,Boiling,Farming/ Gardening,No
+11.352227,77.542945,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.351016,77.540262,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Farming/ Gardening,No
+11.348936,77.53641,2,Kothukara Veethi Thottapaguthigal,Bore well,Boiling,Directly to ground,Yes
+11.348936,77.53641,2,Kothukara Veethi Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.348936,77.53641,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.357474,77.540497,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.345763,77.5505,2,JJ Nagar Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.359195,77.545075,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Farming/ Gardening,No
+11.355468,77.539281,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.350558,77.542987,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.349924,77.539133,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,No
+11.357278,77.525575,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.346534,77.552027,2,JJ Nagar Thottapaguthigal,Panchayat water - Overhead tank,Boiling,Farming/ Gardening,Yes
+11.349872,77.538453,2,Kothukara Veethi Thottapaguthigal,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.343465,77.544208,2,Kothukara Veethi Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.346764,77.549677,3,JJ Nagar,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.336418,77.542058,3,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.342529,77.546716,3,JJ Nagar,Bore well,Nil,Directly to ground,Yes
+11.342091,77.551372,3,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.339638,77.547848,3,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.34213,77.543306,3,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.341916,77.551519,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.336454,77.545976,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.338455,77.545757,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.336454,77.545976,3,Ricemill Puthur Thottapaguthigal,Open well,Boiling,Directly to ground,Yes
+11.343465,77.544208,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.340404,77.529517,3,Ricemill Puthur Thottapaguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.332986,77.543133,3,Ricemill Puthur Thottapaguthigal,Open well,Boiling,Directly to ground,Yes
+11.332986,77.543133,3,Ricemill Puthur Thottapaguthigal,Panchayat water - Overhead tank,Nil,Directly to ground,Yes
+11.346608,77.54997,3,JJ Nagar,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.341763,77.553013,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.341763,77.553013,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.342952,77.543577,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Boiling,Farming/ Gardening,Yes
+11.346484,77.549486,3,JJ Nagar,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.346707,77.549957,3,JJ Nagar,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.346095,77.540625,3,JJ Nagar,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.342952,77.543577,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.346476,77.549582,3,JJ Nagar,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.342952,77.543577,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.34644,77.549725,3,JJ Nagar,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.342952,77.543577,3,Ricemill Puthur Thottapaguthigal,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.341632,77.537607,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342514,77.538252,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.342211,77.538069,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.341416,77.537704,4,Pattaththarasiamman Kovil Street,Open well,Personal RO,Directly to soakpit/ sewage canal,No
+11.341385,77.537788,4,Pattaththarasiamman Kovil Street,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341385,77.537788,4,Pattaththarasiamman Kovil Street,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,No
+11.341988,77.538346,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.341331,77.537736,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,No
+11.342755,77.537934,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.343813,77.544208,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.342219,77.538078,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342315,77.53806,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342305,77.538192,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,No
+11.342307,77.537941,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.34214,77.538099,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.344214,77.54787,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.342269,77.540625,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342401,77.537892,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Farming/ Gardening,No
+11.341853,77.53813,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.341272,77.537955,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.341425,77.538379,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.34183,77.538475,4,Pattaththarasiamman Kovil Street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342059,77.537598,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.342269,77.540625,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.342178,77.537559,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.343813,77.544208,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.351507,77.537042,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.344038,77.541342,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344038,77.541342,5,Pattatharasiamman kovil street,Open well,Nil,Directly to soakpit/ sewage canal,No
+11.343813,77.544208,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.343813,77.544208,5,Pattatharasiamman kovil street,Panchyat water - Piped,Nil,Directly to ground,No
+11.343813,77.544208,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.344038,77.541342,5,Pattatharasiamman kovil street,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.344038,77.541342,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to ground,No
+11.351507,77.537042,5,Pattatharasiamman kovil street,Panchyat water - Piped,Nil,Directly to ground,No
+11.351507,77.537042,5,Pattatharasiamman kovil street,Panchyat water - Piped,Nil,Directly to ground,No
+11.341838,77.536491,5,Gandhi Veethi,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.344341,77.544052,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.340817,77.536862,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.342185,77.537567,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.341537,77.537638,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to ground,No
+11.341838,77.536491,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.341838,77.536491,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Farming/ Gardening,Yes
+11.341312,77.537639,5,Pattatharasiamman kovil street,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.34172,77.536804,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.343813,77.544208,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.351507,77.537042,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.351507,77.537042,5,Gandhi Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.34168,77.536938,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.351507,77.537042,5,Gandhi Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.346476,77.549582,6,Pillaiyarkovil Veethi,Bore well,Nil,Directly to ground,No
+11.343533,77.537614,6,Pillaiyarkovil Veethi,Bore well,Nil,Farming/ Gardening,No
+11.343533,77.537614,6,Pillaiyarkovil Veethi,Bore well,Nil,Farming/ Gardening,Yes
+11.346476,77.549582,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.343451,77.537004,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.343803,77.537055,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344104,77.537102,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.343268,77.537343,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.343308,77.537072,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Personal RO,Directly to ground,Yes
+11.343465,77.544208,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.343465,77.544208,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,No
+11.341406,77.536684,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.343377,77.537152,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,No
+11.343342,77.537213,6,Pillaiyarkovil Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.335986,77.537224,7,Nallampatti Mariamman Kovil Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.344653,77.536311,7,Nallampatti Koththukkarar Veethi,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.343166,77.536425,7,Nallampatti Mariamman Kovil Veethi,Bore well,Boiling,Directly to ground,Yes
+11.344206,77.536347,7,Nallampatti Koththukkarar Veethi,Bore well,Nil,Directly to ground,Yes
+11.34239,77.535993,7,Nallampatti Mariamman Kovil Veethi,Open well,Boiling,Directly to soakpit/ sewage canal,No
+11.342546,77.536113,7,Nallampatti Mariamman Kovil Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.342546,77.536113,7,Nallampatti Mariamman Kovil Veethi,Panchayat water - Syntex tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.344287,77.536293,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344448,77.536632,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.343465,77.544208,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344006,77.53631,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344263,77.536352,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.344069,77.53627,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344315,77.536515,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344315,77.536515,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.343465,77.544208,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.342147,77.537758,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.34232,77.535831,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.343148,77.536541,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.343063,77.537015,7,Nallampatti Koththukkarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.344315,77.536515,7,Nallampatti Mariamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.341161,77.53095,8,West Puthuthottam,Bore well,Boiling,Directly to ground,Yes
+11.341161,77.53095,8,West Puthuthottam,Bore well,Nil,Directly to ground,Yes
+11.346931,77.5244,8,Old Thasamputhur,Bore well,Nil,Directly to ground,Yes
+11.342128,77.527192,8,West Puthuthottam,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.347276,77.524132,8,Old Thasamputhur,Open well,Boiling,Farming/ Gardening,Yes
+11.34389,77.528457,8,West Puthuthottam,Open well,Nil,Directly to ground,Yes
+11.347294,77.524385,8,Old Thasamputhur,Open well,Nil,Directly to ground,Yes
+11.341649,77.534571,8,Durgaiamman Kovil Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.340989,77.533545,8,Pappangkadu Veeramathi Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,No
+11.34232,77.535839,8,Durgaiamman Kovil Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,No
+11.347197,77.524072,8,Old Thasamputhur,Panchayat water - Syntex tank,Boiling,Farming/ Gardening,Yes
+11.342114,77.53618,8,Durgaiamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.342336,77.536463,8,Durgaiamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.342317,77.535952,8,Durgaiamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,Yes
+11.340975,77.533807,8,Pappangkadu Veeramathi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.341115,77.529875,8,Durgaiamman Kovil Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.345048,77.532384,8,Durgaiamman Kovil Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.341097,77.533772,8,Pappangkadu Veeramathi Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.341478,77.530234,8,Pappangkadu Veeramathi Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,No
+11.33998,77.527725,8,Durgaiamman Kovil Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.341739,77.533563,8,Pappangkadu Veeramathi Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.343424,77.529379,8,Old Thasamputhur,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.338853,77.527376,9,Thasamputhur Kotthukarar Veethi,Bore well,Boiling,Directly to ground,Yes
+11.33998,77.527725,9,Aathikkattur Kamarajar Veethi,Panchyat water - Piped,Boiling,Farming/ Gardening,Yes
+11.336742,77.519107,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.338331,77.520863,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.344307,77.523096,9,Aathikkattur Kamarajar Veethi,Bore well,Nil,Farming/ Gardening,Yes
+11.344308,77.523069,9,Aathikkattur Kamarajar Veethi,Bore well,Boiling,Directly to ground,Yes
+11.339571,77.526292,9,Aathikkattur Kamarajar Veethi,Bore well,Nil,Directly to ground,Yes
+11.339571,77.526292,9,Masammavur Pomman Veethi,Open well,Nil,Farming/ Gardening,Yes
+11.340849,77.519683,9,Masammavur Pomman Veethi,Open well,Nil,Directly to ground,No
+11.341828,77.519408,9,Masammavur Pomman Veethi,Open well,Nil,Farming/ Gardening,Yes
+11.344462,77.510524,9,Masammavur Pomman Veethi,Open well,Nil,Directly to ground,No
+11.342255,77.520105,9,Masammavur Pomman Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.339211,77.525683,9,Thasaiyar Veethi,Open well,Nil,Directly to ground,Yes
+11.348139,77.515183,9,Masammavur Pomman Veethi,Open well,Boiling,Farming/ Gardening,Yes
+11.34287,77.519263,9,Masammavur Pomman Veethi,Open well,Nil,Directly to ground,Yes
+11.339086,77.527211,9,Masammavur Pomman Veethi,Open well,Boiling,Farming/ Gardening,Yes
+11.340537,77.525308,9,Thasamputhur Kotthukarar Veethi,Panchayat water - Overhead tank,Nil,Directly to ground,Yes
+11.340537,77.525308,9,Thasamputhur Kotthukarar Veethi,Panchayat water - Overhead tank,Nil,Directly to ground,Yes
+11.339851,77.526073,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.337516,77.519869,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.340404,77.529517,9,Thasaiyar Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.339367,77.52028,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.340404,77.529517,9,Thasaiyar Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.338822,77.526258,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.339955,77.52626,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.337592,77.519955,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,No
+11.339644,77.519842,9,Masammavur Pomman Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.339529,77.52054,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.339861,77.526099,9,Thasamputhur Kotthukarar Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.341076,77.534728,9,Thasamputhur Kotthukarar Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.334138,77.513032,9,Aathikkattur Kamarajar Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.340404,77.529517,9,Thasaiyar Veethi,Panchayat water - Overhead tank,Nil,Directly to ground,Yes
+11.339961,77.519893,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.3334,77.5202,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.338041,77.520706,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Farming/ Gardening,Yes
+11.338099,77.52092,9,Masammavur Pomman Veethi,Panchyat water - Piped,Nil,Directly to ground,No
+11.337667,77.537137,10,Naduvalasu Kothukarar Veethi,Bore well,Nil,Farming/ Gardening,Yes
+11.337667,77.537137,10,Naduvalasu Kothukarar Veethi,Open well,Nil,Directly to soakpit/ sewage canal,No
+11.337048,77.537433,10,Naduvalasu Kothukarar Veethi,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.337048,77.537433,10,Annamaar Veethi Main Road,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Panchayat water - Overhead tank,Boiling,Directly to ground,Yes
+11.337921,77.538001,10,Naduvalasu Kothukarar Veethi,Panchayat water - Overhead tank,Nil,Directly to soakpit/ sewage canal,No
+11.337205,77.537703,10,Naduvalasu Kothukarar Veethi,Panchayat water - Syntex tank,Boiling,Directly to ground,No
+11.336116,77.543133,10,Naduvalasu Kothukarar Veethi,Panchayat water - Syntex tank,Boiling,Directly to soakpit/ sewage canal,Yes
+11.337541,77.537243,10,Naduvalasu Kothukarar Veethi,Panchayat water - Syntex tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.337587,77.53788,10,Naduvalasu Kothukarar Veethi,Panchayat water - Syntex tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.340648,77.537582,10,Naduvalasu Kothukarar Veethi,Panchayat water - Syntex tank,Nil,Directly to soakpit/ sewage canal,Yes
+11.337629,77.537989,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
+11.333712,77.54385,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.337538,77.537153,10,Naduvalasu Kothukarar Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.337508,77.537503,10,Naduvalasu Kothukarar Veethi,Panchayat water - Syntex tank,Nil,Directly to ground,No
+11.340146,77.544472,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,No
+11.340883,77.544465,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,No
+11.33586,77.545283,11,Ricemill Puthur Colony,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,No
+11.340806,77.544894,11,Ricemill Puthur Colony,Panchyat water - Piped,Boiling,Directly to ground,No
+11.340897,77.54481,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.340229,77.544168,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,No
+11.340895,77.54464,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,No
+11.340488,77.544322,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,No
+11.341236,77.544483,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,No
+11.340364,77.544574,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,No
+11.340848,77.544003,11,Ricemill Puthur Colony,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.340404,77.529517,12,Naduvalasu LIC Veethi,Bore well,Boiling,Directly to ground,Yes
+11.332639,77.543133,12,Naduvalasu Cashier Veethi,Open well,Nil,Directly to ground,No
+11.334874,77.538475,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.334862,77.546358,12,Manakkattu Puthur Pillaiyarkovil veethi,Open well,Nil,Farming/ Gardening,Yes
+11.334862,77.546358,12,Naduvalasu LIC Veethi,Open well,Boiling,Directly to soakpit/ sewage canal,Yes
+11.341692,77.53525,12,Naduvalasu Nehru Veethi,Bore well,Personal RO,Directly to soakpit/ sewage canal,Yes
+11.335814,77.544208,12,Manakkattu Puthur Pillaiyarkovil veethi,Bore well,Boiling,Farming/ Gardening,Yes
+11.336941,77.538846,12,Ricemill Puthur Thottapaguthigal,Bore well,Boiling,Farming/ Gardening,Yes
+11.335083,77.556077,12,Manakkattu Puthur Pillaiyarkovil veethi,Bore well,Nil,Directly to soakpit/ sewage canal,Yes
+11.336116,77.543133,12,Oonjakadu,Bore well,Nil,Farming/ Gardening,Yes
+11.336924,77.547427,12,Ricemill Puthur Thottapaguthigal,Bore well,Boiling,Directly to soakpit/ sewage canal,Yes
+11.335088,77.543491,12,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.335088,77.543491,12,Ricemill Puthur Thottapaguthigal,Bore well,Boiling,Directly to ground,Yes
+11.337122,77.548104,12,Ricemill Puthur Thottapaguthigal,Bore well,Nil,Farming/ Gardening,Yes
+11.339659,77.548946,12,Ricemill Puthur Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.334151,77.550523,12,Manakkattu Puthur Pillaiyarkovil veethi,Open well,Nil,Farming/ Gardening,Yes
+11.335914,77.537878,12,Naduvalasu Cashier Veethi,Open well,Nil,Directly to ground,Yes
+11.343465,77.544208,12,Ricemill Puthur Thottapaguthigal,Open well,Nil,Directly to ground,Yes
+11.336849,77.547248,12,Ricemill Puthur Thottapaguthigal,Open well,Nil,Farming/ Gardening,Yes
+11.33655,77.544979,12,Ricemill Puthur Thottapaguthigal,Open well,Nil,Directly to soakpit/ sewage canal,Yes
+11.336116,77.543133,12,Manakkattu Puthur Pillaiyarkovil veethi,Open well,Nil,Farming/ Gardening,Yes
+11.336116,77.543133,12,Manakkattu Puthur Pillaiyarkovil veethi,Panchayat water - Overhead tank,Nil,Directly to ground,Yes
+11.336116,77.543133,12,Manakkattu Puthur Pillaiyarkovil veethi,Panchayat water - Overhead tank,Nil,Farming/ Gardening,Yes
+11.336178,77.537231,12,Naduvalasu LIC Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.332986,77.543133,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.333712,77.54385,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.336422,77.537415,12,Naduvalasu LIC Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.336116,77.543133,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to ground,Yes
+11.339835,77.540625,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.336115,77.537616,12,Naduvalasu Nehru Veethi,Panchyat water - Piped,Personal RO,Directly to soakpit/ sewage canal,No
+11.336194,77.537148,12,Naduvalasu LIC Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.336203,77.537453,12,Naduvalasu Cashier Veethi,Panchyat water - Piped,Boiling,Directly to ground,Yes
+11.332986,77.543133,12,Naduvalasu LIC Veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,Yes
+11.334874,77.538475,12,Manakkattu Puthur Pillaiyarkovil veethi,Panchyat water - Piped,Nil,Directly to soakpit/ sewage canal,No
+11.334874,77.538475,12,Naduvalasu LIC Veethi,Panchyat water - Piped,Boiling,Directly to soakpit/ sewage canal,No
